@@ -1,0 +1,6687 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.08333,2.61667 ]
+    },
+    "properties": {
+    "id":1101,
+    "province_id":11,
+    "name":"KABUPATEN SIMEULUE",
+    "alt_name":"KABUPATEN SIMEULUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.91667,2.41667 ]
+    },
+    "properties": {
+    "id":1102,
+    "province_id":11,
+    "name":"KABUPATEN ACEH SINGKIL",
+    "alt_name":"KABUPATEN ACEH SINGKIL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.41667,3.16667 ]
+    },
+    "properties": {
+    "id":1103,
+    "province_id":11,
+    "name":"KABUPATEN ACEH SELATAN",
+    "alt_name":"KABUPATEN ACEH SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.7,3.36667 ]
+    },
+    "properties": {
+    "id":1104,
+    "province_id":11,
+    "name":"KABUPATEN ACEH TENGGARA",
+    "alt_name":"KABUPATEN ACEH TENGGARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.63333,4.63333 ]
+    },
+    "properties": {
+    "id":1105,
+    "province_id":11,
+    "name":"KABUPATEN ACEH TIMUR",
+    "alt_name":"KABUPATEN ACEH TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.855,4.51 ]
+    },
+    "properties": {
+    "id":1106,
+    "province_id":11,
+    "name":"KABUPATEN ACEH TENGAH",
+    "alt_name":"KABUPATEN ACEH TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.16667,4.45 ]
+    },
+    "properties": {
+    "id":1107,
+    "province_id":11,
+    "name":"KABUPATEN ACEH BARAT",
+    "alt_name":"KABUPATEN ACEH BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.51667,5.38333 ]
+    },
+    "properties": {
+    "id":1108,
+    "province_id":11,
+    "name":"KABUPATEN ACEH BESAR",
+    "alt_name":"KABUPATEN ACEH BESAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.11,5.08 ]
+    },
+    "properties": {
+    "id":1109,
+    "province_id":11,
+    "name":"KABUPATEN PIDIE",
+    "alt_name":"KABUPATEN PIDIE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.58333,5.08333 ]
+    },
+    "properties": {
+    "id":1110,
+    "province_id":11,
+    "name":"KABUPATEN BIREUEN",
+    "alt_name":"KABUPATEN BIREUEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.14,4.97 ]
+    },
+    "properties": {
+    "id":1111,
+    "province_id":11,
+    "name":"KABUPATEN ACEH UTARA",
+    "alt_name":"KABUPATEN ACEH UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.88333,3.83333 ]
+    },
+    "properties": {
+    "id":1112,
+    "province_id":11,
+    "name":"KABUPATEN ACEH BARAT DAYA",
+    "alt_name":"KABUPATEN ACEH BARAT DAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.39,3.95 ]
+    },
+    "properties": {
+    "id":1113,
+    "province_id":11,
+    "name":"KABUPATEN GAYO LUES",
+    "alt_name":"KABUPATEN GAYO LUES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.96667,4.25 ]
+    },
+    "properties": {
+    "id":1114,
+    "province_id":11,
+    "name":"KABUPATEN ACEH TAMIANG",
+    "alt_name":"KABUPATEN ACEH TAMIANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.51667,4.16667 ]
+    },
+    "properties": {
+    "id":1115,
+    "province_id":11,
+    "name":"KABUPATEN NAGAN RAYA",
+    "alt_name":"KABUPATEN NAGAN RAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.64,4.86 ]
+    },
+    "properties": {
+    "id":1116,
+    "province_id":11,
+    "name":"KABUPATEN ACEH JAYA",
+    "alt_name":"KABUPATEN ACEH JAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.86156,4.73015 ]
+    },
+    "properties": {
+    "id":1117,
+    "province_id":11,
+    "name":"KABUPATEN BENER MERIAH",
+    "alt_name":"KABUPATEN BENER MERIAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.21667,5.15 ]
+    },
+    "properties": {
+    "id":1118,
+    "province_id":11,
+    "name":"KABUPATEN PIDIE JAYA",
+    "alt_name":"KABUPATEN PIDIE JAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.33333,5.54167 ]
+    },
+    "properties": {
+    "id":1171,
+    "province_id":11,
+    "name":"KOTA BANDA ACEH",
+    "alt_name":"KOTA BANDA ACEH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.31086,5.82164 ]
+    },
+    "properties": {
+    "id":1172,
+    "province_id":11,
+    "name":"KOTA SABANG",
+    "alt_name":"KOTA SABANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.93,4.47 ]
+    },
+    "properties": {
+    "id":1173,
+    "province_id":11,
+    "name":"KOTA LANGSA",
+    "alt_name":"KOTA LANGSA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.06667,5.13333 ]
+    },
+    "properties": {
+    "id":1174,
+    "province_id":11,
+    "name":"KOTA LHOKSEUMAWE",
+    "alt_name":"KOTA LHOKSEUMAWE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.93333,2.75 ]
+    },
+    "properties": {
+    "id":1175,
+    "province_id":11,
+    "name":"KOTA SUBULUSSALAM",
+    "alt_name":"KOTA SUBULUSSALAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.76667,1.03333 ]
+    },
+    "properties": {
+    "id":1201,
+    "province_id":12,
+    "name":"KABUPATEN NIAS",
+    "alt_name":"KABUPATEN NIAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.25495,0.78378 ]
+    },
+    "properties": {
+    "id":1202,
+    "province_id":12,
+    "name":"KABUPATEN MANDAILING NATAL",
+    "alt_name":"KABUPATEN MANDAILING NATAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.25,1.51667 ]
+    },
+    "properties": {
+    "id":1203,
+    "province_id":12,
+    "name":"KABUPATEN TAPANULI SELATAN",
+    "alt_name":"KABUPATEN TAPANULI SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.66667,1.9 ]
+    },
+    "properties": {
+    "id":1204,
+    "province_id":12,
+    "name":"KABUPATEN TAPANULI TENGAH",
+    "alt_name":"KABUPATEN TAPANULI TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.0707,2.0028 ]
+    },
+    "properties": {
+    "id":1205,
+    "province_id":12,
+    "name":"KABUPATEN TAPANULI UTARA",
+    "alt_name":"KABUPATEN TAPANULI UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.21678,2.39793 ]
+    },
+    "properties": {
+    "id":1206,
+    "province_id":12,
+    "name":"KABUPATEN TOBA SAMOSIR",
+    "alt_name":"KABUPATEN TOBA SAMOSIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.1,2.26667 ]
+    },
+    "properties": {
+    "id":1207,
+    "province_id":12,
+    "name":"KABUPATEN LABUHAN BATU",
+    "alt_name":"KABUPATEN LABUHAN BATU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.55,2.7833300000000003 ]
+    },
+    "properties": {
+    "id":1208,
+    "province_id":12,
+    "name":"KABUPATEN ASAHAN",
+    "alt_name":"KABUPATEN ASAHAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.0,2.9 ]
+    },
+    "properties": {
+    "id":1209,
+    "province_id":12,
+    "name":"KABUPATEN SIMALUNGUN",
+    "alt_name":"KABUPATEN SIMALUNGUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.23333,2.86667 ]
+    },
+    "properties": {
+    "id":1210,
+    "province_id":12,
+    "name":"KABUPATEN DAIRI",
+    "alt_name":"KABUPATEN DAIRI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.3,3.11667 ]
+    },
+    "properties": {
+    "id":1211,
+    "province_id":12,
+    "name":"KABUPATEN KARO",
+    "alt_name":"KABUPATEN KARO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.66667,3.41667 ]
+    },
+    "properties": {
+    "id":1212,
+    "province_id":12,
+    "name":"KABUPATEN DELI SERDANG",
+    "alt_name":"KABUPATEN DELI SERDANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.21667,3.71667 ]
+    },
+    "properties": {
+    "id":1213,
+    "province_id":12,
+    "name":"KABUPATEN LANGKAT",
+    "alt_name":"KABUPATEN LANGKAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.75,0.77 ]
+    },
+    "properties": {
+    "id":1214,
+    "province_id":12,
+    "name":"KABUPATEN NIAS SELATAN",
+    "alt_name":"KABUPATEN NIAS SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.50376,2.26551 ]
+    },
+    "properties": {
+    "id":1215,
+    "province_id":12,
+    "name":"KABUPATEN HUMBANG HASUNDUTAN",
+    "alt_name":"KABUPATEN HUMBANG HASUNDUTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.28333,2.5666700000000002 ]
+    },
+    "properties": {
+    "id":1216,
+    "province_id":12,
+    "name":"KABUPATEN PAKPAK BHARAT",
+    "alt_name":"KABUPATEN PAKPAK BHARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.71525,2.64025 ]
+    },
+    "properties": {
+    "id":1217,
+    "province_id":12,
+    "name":"KABUPATEN SAMOSIR",
+    "alt_name":"KABUPATEN SAMOSIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.03333,3.36667 ]
+    },
+    "properties": {
+    "id":1218,
+    "province_id":12,
+    "name":"KABUPATEN SERDANG BEDAGAI",
+    "alt_name":"KABUPATEN SERDANG BEDAGAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.52652,3.16166 ]
+    },
+    "properties": {
+    "id":1219,
+    "province_id":12,
+    "name":"KABUPATEN BATU BARA",
+    "alt_name":"KABUPATEN BATU BARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.67346,1.46011 ]
+    },
+    "properties": {
+    "id":1220,
+    "province_id":12,
+    "name":"KABUPATEN PADANG LAWAS UTARA",
+    "alt_name":"KABUPATEN PADANG LAWAS UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.99207,1.44684 ]
+    },
+    "properties": {
+    "id":1221,
+    "province_id":12,
+    "name":"KABUPATEN PADANG LAWAS",
+    "alt_name":"KABUPATEN PADANG LAWAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.0976,1.983 ]
+    },
+    "properties": {
+    "id":1222,
+    "province_id":12,
+    "name":"KABUPATEN LABUHAN BATU SELATAN",
+    "alt_name":"KABUPATEN LABUHAN BATU SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.63776,2.33349 ]
+    },
+    "properties": {
+    "id":1223,
+    "province_id":12,
+    "name":"KABUPATEN LABUHAN BATU UTARA",
+    "alt_name":"KABUPATEN LABUHAN BATU UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.31964,1.33037 ]
+    },
+    "properties": {
+    "id":1224,
+    "province_id":12,
+    "name":"KABUPATEN NIAS UTARA",
+    "alt_name":"KABUPATEN NIAS UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.58606,1.05966 ]
+    },
+    "properties": {
+    "id":1225,
+    "province_id":12,
+    "name":"KABUPATEN NIAS BARAT",
+    "alt_name":"KABUPATEN NIAS BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.8,1.73333 ]
+    },
+    "properties": {
+    "id":1271,
+    "province_id":12,
+    "name":"KOTA SIBOLGA",
+    "alt_name":"KOTA SIBOLGA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.79167,2.95833 ]
+    },
+    "properties": {
+    "id":1272,
+    "province_id":12,
+    "name":"KOTA TANJUNG BALAI",
+    "alt_name":"KOTA TANJUNG BALAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.05,2.96667 ]
+    },
+    "properties": {
+    "id":1273,
+    "province_id":12,
+    "name":"KOTA PEMATANG SIANTAR",
+    "alt_name":"KOTA PEMATANG SIANTAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.14167,3.325 ]
+    },
+    "properties": {
+    "id":1274,
+    "province_id":12,
+    "name":"KOTA TEBING TINGGI",
+    "alt_name":"KOTA TEBING TINGGI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.66667,3.65 ]
+    },
+    "properties": {
+    "id":1275,
+    "province_id":12,
+    "name":"KOTA MEDAN",
+    "alt_name":"KOTA MEDAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.23333,3.8 ]
+    },
+    "properties": {
+    "id":1276,
+    "province_id":12,
+    "name":"KOTA BINJAI",
+    "alt_name":"KOTA BINJAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.26843,1.37375 ]
+    },
+    "properties": {
+    "id":1277,
+    "province_id":12,
+    "name":"KOTA PADANG SIDEMPUAN",
+    "alt_name":"KOTA PADANG SIDEMPUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.55018,1.32731 ]
+    },
+    "properties": {
+    "id":1278,
+    "province_id":12,
+    "name":"KOTA GUNUNGSITOLI",
+    "alt_name":"KOTA GUNUNGSITOLI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.51889,1.98917 ]
+    },
+    "properties": {
+    "id":1301,
+    "province_id":13,
+    "name":"KABUPATEN KEPULAUAN MENTAWAI",
+    "alt_name":"KABUPATEN KEPULAUAN MENTAWAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.85,-1.5833300000000001 ]
+    },
+    "properties": {
+    "id":1302,
+    "province_id":13,
+    "name":"KABUPATEN PESISIR SELATAN",
+    "alt_name":"KABUPATEN PESISIR SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.81667,-0.96667 ]
+    },
+    "properties": {
+    "id":1303,
+    "province_id":13,
+    "name":"KABUPATEN SOLOK",
+    "alt_name":"KABUPATEN SOLOK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.6056,-1.1827 ]
+    },
+    "properties": {
+    "id":1304,
+    "province_id":13,
+    "name":"KABUPATEN SIJUNJUNG",
+    "alt_name":"KABUPATEN SIJUNJUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.5771,-0.4555 ]
+    },
+    "properties": {
+    "id":1305,
+    "province_id":13,
+    "name":"KABUPATEN TANAH DATAR",
+    "alt_name":"KABUPATEN TANAH DATAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.28333,-0.6000000000000001 ]
+    },
+    "properties": {
+    "id":1306,
+    "province_id":13,
+    "name":"KABUPATEN PADANG PARIAMAN",
+    "alt_name":"KABUPATEN PADANG PARIAMAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.16667,-0.25 ]
+    },
+    "properties": {
+    "id":1307,
+    "province_id":13,
+    "name":"KABUPATEN AGAM",
+    "alt_name":"KABUPATEN AGAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.5872,-0.016800000000000002 ]
+    },
+    "properties": {
+    "id":1308,
+    "province_id":13,
+    "name":"KABUPATEN LIMA PULUH KOTA",
+    "alt_name":"KABUPATEN LIMA PULUH KOTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.94606,0.42503 ]
+    },
+    "properties": {
+    "id":1309,
+    "province_id":13,
+    "name":"KABUPATEN PASAMAN",
+    "alt_name":"KABUPATEN PASAMAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.417,-1.23333 ]
+    },
+    "properties": {
+    "id":1310,
+    "province_id":13,
+    "name":"KABUPATEN SOLOK SELATAN",
+    "alt_name":"KABUPATEN SOLOK SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.367,-1.05 ]
+    },
+    "properties": {
+    "id":1311,
+    "province_id":13,
+    "name":"KABUPATEN DHARMASRAYA",
+    "alt_name":"KABUPATEN DHARMASRAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.51965,0.28152000000000005 ]
+    },
+    "properties": {
+    "id":1312,
+    "province_id":13,
+    "name":"KABUPATEN PASAMAN BARAT",
+    "alt_name":"KABUPATEN PASAMAN BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.45,-0.98333 ]
+    },
+    "properties": {
+    "id":1371,
+    "province_id":13,
+    "name":"KOTA PADANG",
+    "alt_name":"KOTA PADANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.61667,-0.7666700000000001 ]
+    },
+    "properties": {
+    "id":1372,
+    "province_id":13,
+    "name":"KOTA SOLOK",
+    "alt_name":"KOTA SOLOK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.75,-0.6000000000000001 ]
+    },
+    "properties": {
+    "id":1373,
+    "province_id":13,
+    "name":"KOTA SAWAH LUNTO",
+    "alt_name":"KOTA SAWAH LUNTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.43333,-0.45 ]
+    },
+    "properties": {
+    "id":1374,
+    "province_id":13,
+    "name":"KOTA PADANG PANJANG",
+    "alt_name":"KOTA PADANG PANJANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.375,-0.275 ]
+    },
+    "properties": {
+    "id":1375,
+    "province_id":13,
+    "name":"KOTA BUKITTINGGI",
+    "alt_name":"KOTA BUKITTINGGI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.63333,-0.23333 ]
+    },
+    "properties": {
+    "id":1376,
+    "province_id":13,
+    "name":"KOTA PAYAKUMBUH",
+    "alt_name":"KOTA PAYAKUMBUH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.12047,-0.62682 ]
+    },
+    "properties": {
+    "id":1377,
+    "province_id":13,
+    "name":"KOTA PARIAMAN",
+    "alt_name":"KOTA PARIAMAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.45857,-0.47532 ]
+    },
+    "properties": {
+    "id":1401,
+    "province_id":14,
+    "name":"KABUPATEN KUANTAN SINGINGI",
+    "alt_name":"KABUPATEN KUANTAN SINGINGI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.31667,-0.55 ]
+    },
+    "properties": {
+    "id":1402,
+    "province_id":14,
+    "name":"KABUPATEN INDRAGIRI HULU",
+    "alt_name":"KABUPATEN INDRAGIRI HULU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.16667,-0.33333 ]
+    },
+    "properties": {
+    "id":1403,
+    "province_id":14,
+    "name":"KABUPATEN INDRAGIRI HILIR",
+    "alt_name":"KABUPATEN INDRAGIRI HILIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.18607,0.20822000000000002 ]
+    },
+    "properties": {
+    "id":1404,
+    "province_id":14,
+    "name":"KABUPATEN PELALAWAN",
+    "alt_name":"KABUPATEN PELALAWAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.01355,0.9745300000000001 ]
+    },
+    "properties": {
+    "id":1405,
+    "province_id":14,
+    "name":"KABUPATEN SIAK",
+    "alt_name":"KABUPATEN SIAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.2131,0.23440000000000003 ]
+    },
+    "properties": {
+    "id":1406,
+    "province_id":14,
+    "name":"KABUPATEN KAMPAR",
+    "alt_name":"KABUPATEN KAMPAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.48333,0.8833300000000001 ]
+    },
+    "properties": {
+    "id":1407,
+    "province_id":14,
+    "name":"KABUPATEN ROKAN HULU",
+    "alt_name":"KABUPATEN ROKAN HULU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5096,0.9838 ]
+    },
+    "properties": {
+    "id":1408,
+    "province_id":14,
+    "name":"KABUPATEN BENGKALIS",
+    "alt_name":"KABUPATEN BENGKALIS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.82514,2.16599 ]
+    },
+    "properties": {
+    "id":1409,
+    "province_id":14,
+    "name":"KABUPATEN ROKAN HILIR",
+    "alt_name":"KABUPATEN ROKAN HILIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.69539,0.9748800000000001 ]
+    },
+    "properties": {
+    "id":1410,
+    "province_id":14,
+    "name":"KABUPATEN KEPULAUAN MERANTI",
+    "alt_name":"KABUPATEN KEPULAUAN MERANTI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.46667,0.5333300000000001 ]
+    },
+    "properties": {
+    "id":1471,
+    "province_id":14,
+    "name":"KOTA PEKANBARU",
+    "alt_name":"KOTA PEKANBARU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.4917,1.61592 ]
+    },
+    "properties": {
+    "id":1473,
+    "province_id":14,
+    "name":"KOTA DUMAI",
+    "alt_name":"KOTA DUMAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.53333,-2.03333 ]
+    },
+    "properties": {
+    "id":1501,
+    "province_id":15,
+    "name":"KABUPATEN KERINCI",
+    "alt_name":"KABUPATEN KERINCI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.13303,-2.06933 ]
+    },
+    "properties": {
+    "id":1502,
+    "province_id":15,
+    "name":"KABUPATEN MERANGIN",
+    "alt_name":"KABUPATEN MERANGIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.65,-2.3 ]
+    },
+    "properties": {
+    "id":1503,
+    "province_id":15,
+    "name":"KABUPATEN SAROLANGUN",
+    "alt_name":"KABUPATEN SAROLANGUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.11667,-1.75 ]
+    },
+    "properties": {
+    "id":1504,
+    "province_id":15,
+    "name":"KABUPATEN BATANG HARI",
+    "alt_name":"KABUPATEN BATANG HARI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.82163,-1.55214 ]
+    },
+    "properties": {
+    "id":1505,
+    "province_id":15,
+    "name":"KABUPATEN MUARO JAMBI",
+    "alt_name":"KABUPATEN MUARO JAMBI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.61755,-1.13198 ]
+    },
+    "properties": {
+    "id":1506,
+    "province_id":15,
+    "name":"KABUPATEN TANJUNG JABUNG TIMUR",
+    "alt_name":"KABUPATEN TANJUNG JABUNG TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.24402,-1.1544 ]
+    },
+    "properties": {
+    "id":1507,
+    "province_id":15,
+    "name":"KABUPATEN TANJUNG JABUNG BARAT",
+    "alt_name":"KABUPATEN TANJUNG JABUNG BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.37473,-1.4557600000000002 ]
+    },
+    "properties": {
+    "id":1508,
+    "province_id":15,
+    "name":"KABUPATEN TEBO",
+    "alt_name":"KABUPATEN TEBO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.96,-1.5022199999999999 ]
+    },
+    "properties": {
+    "id":1509,
+    "province_id":15,
+    "name":"KABUPATEN BUNGO",
+    "alt_name":"KABUPATEN BUNGO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.65,-1.61667 ]
+    },
+    "properties": {
+    "id":1571,
+    "province_id":15,
+    "name":"KOTA JAMBI",
+    "alt_name":"KOTA JAMBI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.32175,-2.10896 ]
+    },
+    "properties": {
+    "id":1572,
+    "province_id":15,
+    "name":"KOTA SUNGAI PENUH",
+    "alt_name":"KOTA SUNGAI PENUH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.03333,-4.13333 ]
+    },
+    "properties": {
+    "id":1601,
+    "province_id":16,
+    "name":"KABUPATEN OGAN KOMERING ULU",
+    "alt_name":"KABUPATEN OGAN KOMERING ULU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.36667,-3.36667 ]
+    },
+    "properties": {
+    "id":1602,
+    "province_id":16,
+    "name":"KABUPATEN OGAN KOMERING ILIR",
+    "alt_name":"KABUPATEN OGAN KOMERING ILIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6141,-4.2327 ]
+    },
+    "properties": {
+    "id":1603,
+    "province_id":16,
+    "name":"KABUPATEN MUARA ENIM",
+    "alt_name":"KABUPATEN MUARA ENIM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.5428,-3.7864 ]
+    },
+    "properties": {
+    "id":1604,
+    "province_id":16,
+    "name":"KABUPATEN LAHAT",
+    "alt_name":"KABUPATEN LAHAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.2,-3.08333 ]
+    },
+    "properties": {
+    "id":1605,
+    "province_id":16,
+    "name":"KABUPATEN MUSI RAWAS",
+    "alt_name":"KABUPATEN MUSI RAWAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.75,-2.41667 ]
+    },
+    "properties": {
+    "id":1606,
+    "province_id":16,
+    "name":"KABUPATEN MUSI BANYU ASIN",
+    "alt_name":"KABUPATEN MUSI BANYU ASIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.38306,-2.88333 ]
+    },
+    "properties": {
+    "id":1607,
+    "province_id":16,
+    "name":"KABUPATEN BANYU ASIN",
+    "alt_name":"KABUPATEN BANYU ASIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.00659,-4.65728 ]
+    },
+    "properties": {
+    "id":1608,
+    "province_id":16,
+    "name":"KABUPATEN OGAN KOMERING ULU SELATAN",
+    "alt_name":"KABUPATEN OGAN KOMERING ULU SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.75209,-3.85679 ]
+    },
+    "properties": {
+    "id":1609,
+    "province_id":16,
+    "name":"KABUPATEN OGAN KOMERING ULU TIMUR",
+    "alt_name":"KABUPATEN OGAN KOMERING ULU TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.62727,-3.43186 ]
+    },
+    "properties": {
+    "id":1610,
+    "province_id":16,
+    "name":"KABUPATEN OGAN ILIR",
+    "alt_name":"KABUPATEN OGAN ILIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.09256,3.22667 ]
+    },
+    "properties": {
+    "id":1611,
+    "province_id":16,
+    "name":"KABUPATEN EMPAT LAWANG",
+    "alt_name":"KABUPATEN EMPAT LAWANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.08722,-3.21342 ]
+    },
+    "properties": {
+    "id":1612,
+    "province_id":16,
+    "name":"KABUPATEN PENUKAL ABAB LEMATANG ILIR",
+    "alt_name":"KABUPATEN PENUKAL ABAB LEMATANG ILIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.29346,-2.4853300000000003 ]
+    },
+    "properties": {
+    "id":1613,
+    "province_id":16,
+    "name":"KABUPATEN MUSI RAWAS UTARA",
+    "alt_name":"KABUPATEN MUSI RAWAS UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.71667,-3.0 ]
+    },
+    "properties": {
+    "id":1671,
+    "province_id":16,
+    "name":"KOTA PALEMBANG",
+    "alt_name":"KOTA PALEMBANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.2229,-3.46202 ]
+    },
+    "properties": {
+    "id":1672,
+    "province_id":16,
+    "name":"KOTA PRABUMULIH",
+    "alt_name":"KOTA PRABUMULIH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.26822,-4.13055 ]
+    },
+    "properties": {
+    "id":1673,
+    "province_id":16,
+    "name":"KOTA PAGAR ALAM",
+    "alt_name":"KOTA PAGAR ALAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.85503,-3.29308 ]
+    },
+    "properties": {
+    "id":1674,
+    "province_id":16,
+    "name":"KOTA LUBUK LINGGAU",
+    "alt_name":"KOTA LUBUK LINGGAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.03333,-4.35 ]
+    },
+    "properties": {
+    "id":1701,
+    "province_id":17,
+    "name":"KABUPATEN BENGKULU SELATAN",
+    "alt_name":"KABUPATEN BENGKULU SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.71667,-3.43333 ]
+    },
+    "properties": {
+    "id":1702,
+    "province_id":17,
+    "name":"KABUPATEN REJANG LEBONG",
+    "alt_name":"KABUPATEN REJANG LEBONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.05,-3.33333 ]
+    },
+    "properties": {
+    "id":1703,
+    "province_id":17,
+    "name":"KABUPATEN BENGKULU UTARA",
+    "alt_name":"KABUPATEN BENGKULU UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.36109,-4.78179 ]
+    },
+    "properties": {
+    "id":1704,
+    "province_id":17,
+    "name":"KABUPATEN KAUR",
+    "alt_name":"KABUPATEN KAUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.47429,-3.96644 ]
+    },
+    "properties": {
+    "id":1705,
+    "province_id":17,
+    "name":"KABUPATEN SELUMA",
+    "alt_name":"KABUPATEN SELUMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.54766,-3.07438 ]
+    },
+    "properties": {
+    "id":1706,
+    "province_id":17,
+    "name":"KABUPATEN MUKOMUKO",
+    "alt_name":"KABUPATEN MUKOMUKO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.3349,-3.24278 ]
+    },
+    "properties": {
+    "id":1707,
+    "province_id":17,
+    "name":"KABUPATEN LEBONG",
+    "alt_name":"KABUPATEN LEBONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.56424,-3.60194 ]
+    },
+    "properties": {
+    "id":1708,
+    "province_id":17,
+    "name":"KABUPATEN KEPAHIANG",
+    "alt_name":"KABUPATEN KEPAHIANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.12616,-3.20679 ]
+    },
+    "properties": {
+    "id":1709,
+    "province_id":17,
+    "name":"KABUPATEN BENGKULU TENGAH",
+    "alt_name":"KABUPATEN BENGKULU TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.31667,-3.8166700000000002 ]
+    },
+    "properties": {
+    "id":1771,
+    "province_id":17,
+    "name":"KOTA BENGKULU",
+    "alt_name":"KOTA BENGKULU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.19309,-5.14904 ]
+    },
+    "properties": {
+    "id":1801,
+    "province_id":18,
+    "name":"KABUPATEN LAMPUNG BARAT",
+    "alt_name":"KABUPATEN LAMPUNG BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.62349,-5.38508 ]
+    },
+    "properties": {
+    "id":1802,
+    "province_id":18,
+    "name":"KABUPATEN TANGGAMUS",
+    "alt_name":"KABUPATEN TANGGAMUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.9877,-5.4531 ]
+    },
+    "properties": {
+    "id":1803,
+    "province_id":18,
+    "name":"KABUPATEN LAMPUNG SELATAN",
+    "alt_name":"KABUPATEN LAMPUNG SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.68003,-5.10273 ]
+    },
+    "properties": {
+    "id":1804,
+    "province_id":18,
+    "name":"KABUPATEN LAMPUNG TIMUR",
+    "alt_name":"KABUPATEN LAMPUNG TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.26667,-4.86667 ]
+    },
+    "properties": {
+    "id":1805,
+    "province_id":18,
+    "name":"KABUPATEN LAMPUNG TENGAH",
+    "alt_name":"KABUPATEN LAMPUNG TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.8,-4.81667 ]
+    },
+    "properties": {
+    "id":1806,
+    "province_id":18,
+    "name":"KABUPATEN LAMPUNG UTARA",
+    "alt_name":"KABUPATEN LAMPUNG UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.52753,-4.44705 ]
+    },
+    "properties": {
+    "id":1807,
+    "province_id":18,
+    "name":"KABUPATEN WAY KANAN",
+    "alt_name":"KABUPATEN WAY KANAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.57999,-4.20604 ]
+    },
+    "properties": {
+    "id":1808,
+    "province_id":18,
+    "name":"KABUPATEN TULANGBAWANG",
+    "alt_name":"KABUPATEN TULANGBAWANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.17899,-5.4298 ]
+    },
+    "properties": {
+    "id":1809,
+    "province_id":18,
+    "name":"KABUPATEN PESAWARAN",
+    "alt_name":"KABUPATEN PESAWARAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.93454,-5.42211 ]
+    },
+    "properties": {
+    "id":1810,
+    "province_id":18,
+    "name":"KABUPATEN PRINGSEWU",
+    "alt_name":"KABUPATEN PRINGSEWU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.4013,-4.0439 ]
+    },
+    "properties": {
+    "id":1811,
+    "province_id":18,
+    "name":"KABUPATEN MESUJI",
+    "alt_name":"KABUPATEN MESUJI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.0444,-4.43975 ]
+    },
+    "properties": {
+    "id":1812,
+    "province_id":18,
+    "name":"KABUPATEN TULANG BAWANG BARAT",
+    "alt_name":"KABUPATEN TULANG BAWANG BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.93976,-5.19323 ]
+    },
+    "properties": {
+    "id":1813,
+    "province_id":18,
+    "name":"KABUPATEN PESISIR BARAT",
+    "alt_name":"KABUPATEN PESISIR BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.25,-5.41667 ]
+    },
+    "properties": {
+    "id":1871,
+    "province_id":18,
+    "name":"KOTA BANDAR LAMPUNG",
+    "alt_name":"KOTA BANDAR LAMPUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.29949,-5.11856 ]
+    },
+    "properties": {
+    "id":1872,
+    "province_id":18,
+    "name":"KOTA METRO",
+    "alt_name":"KOTA METRO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.93333,-1.91667 ]
+    },
+    "properties": {
+    "id":1901,
+    "province_id":19,
+    "name":"KABUPATEN BANGKA",
+    "alt_name":"KABUPATEN BANGKA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.7,-2.86667 ]
+    },
+    "properties": {
+    "id":1902,
+    "province_id":19,
+    "name":"KABUPATEN BELITUNG",
+    "alt_name":"KABUPATEN BELITUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.53741,-1.95839 ]
+    },
+    "properties": {
+    "id":1903,
+    "province_id":19,
+    "name":"KABUPATEN BANGKA BARAT",
+    "alt_name":"KABUPATEN BANGKA BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1142,-2.33989 ]
+    },
+    "properties": {
+    "id":1904,
+    "province_id":19,
+    "name":"KABUPATEN BANGKA TENGAH",
+    "alt_name":"KABUPATEN BANGKA TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.01257,-2.66803 ]
+    },
+    "properties": {
+    "id":1905,
+    "province_id":19,
+    "name":"KABUPATEN BANGKA SELATAN",
+    "alt_name":"KABUPATEN BANGKA SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.15216,-2.9627 ]
+    },
+    "properties": {
+    "id":1906,
+    "province_id":19,
+    "name":"KABUPATEN BELITUNG TIMUR",
+    "alt_name":"KABUPATEN BELITUNG TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.13333,-2.13333 ]
+    },
+    "properties": {
+    "id":1971,
+    "province_id":19,
+    "name":"KOTA PANGKAL PINANG",
+    "alt_name":"KOTA PANGKAL PINANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.41911,0.80764 ]
+    },
+    "properties": {
+    "id":2101,
+    "province_id":21,
+    "name":"KABUPATEN KARIMUN",
+    "alt_name":"KABUPATEN KARIMUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.61944,0.9500000000000001 ]
+    },
+    "properties": {
+    "id":2102,
+    "province_id":21,
+    "name":"KABUPATEN BINTAN",
+    "alt_name":"KABUPATEN BINTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.97639,4.71417 ]
+    },
+    "properties": {
+    "id":2103,
+    "province_id":21,
+    "name":"KABUPATEN NATUNA",
+    "alt_name":"KABUPATEN NATUNA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.61667,0.2 ]
+    },
+    "properties": {
+    "id":2104,
+    "province_id":21,
+    "name":"KABUPATEN LINGGA",
+    "alt_name":"KABUPATEN LINGGA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.0,3.0 ]
+    },
+    "properties": {
+    "id":2105,
+    "province_id":21,
+    "name":"KABUPATEN KEPULAUAN ANAMBAS",
+    "alt_name":"KABUPATEN KEPULAUAN ANAMBAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.02851,1.05211 ]
+    },
+    "properties": {
+    "id":2171,
+    "province_id":21,
+    "name":"KOTA BATAM",
+    "alt_name":"KOTA BATAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.44329,0.91683 ]
+    },
+    "properties": {
+    "id":2172,
+    "province_id":21,
+    "name":"KOTA TANJUNG PINANG",
+    "alt_name":"KOTA TANJUNG PINANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.55271,-5.5985 ]
+    },
+    "properties": {
+    "id":3101,
+    "province_id":31,
+    "name":"KABUPATEN KEPULAUAN SERIBU",
+    "alt_name":"KABUPATEN KEPULAUAN SERIBU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8135,-6.266 ]
+    },
+    "properties": {
+    "id":3171,
+    "province_id":31,
+    "name":"KOTA JAKARTA SELATAN",
+    "alt_name":"KOTA JAKARTA SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.884,-6.2521 ]
+    },
+    "properties": {
+    "id":3172,
+    "province_id":31,
+    "name":"KOTA JAKARTA TIMUR",
+    "alt_name":"KOTA JAKARTA TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8403,-6.1777 ]
+    },
+    "properties": {
+    "id":3173,
+    "province_id":31,
+    "name":"KOTA JAKARTA PUSAT",
+    "alt_name":"KOTA JAKARTA PUSAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7673,-6.1676 ]
+    },
+    "properties": {
+    "id":3174,
+    "province_id":31,
+    "name":"KOTA JAKARTA BARAT",
+    "alt_name":"KOTA JAKARTA BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8823,-6.1339 ]
+    },
+    "properties": {
+    "id":3175,
+    "province_id":31,
+    "name":"KOTA JAKARTA UTARA",
+    "alt_name":"KOTA JAKARTA UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.71667,-6.58333 ]
+    },
+    "properties": {
+    "id":3201,
+    "province_id":32,
+    "name":"KABUPATEN BOGOR",
+    "alt_name":"KABUPATEN BOGOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7,-7.06667 ]
+    },
+    "properties": {
+    "id":3202,
+    "province_id":32,
+    "name":"KABUPATEN SUKABUMI",
+    "alt_name":"KABUPATEN SUKABUMI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.08306,-6.7725 ]
+    },
+    "properties": {
+    "id":3203,
+    "province_id":32,
+    "name":"KABUPATEN CIANJUR",
+    "alt_name":"KABUPATEN CIANJUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6,-7.1 ]
+    },
+    "properties": {
+    "id":3204,
+    "province_id":32,
+    "name":"KABUPATEN BANDUNG",
+    "alt_name":"KABUPATEN BANDUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.76667,-7.38333 ]
+    },
+    "properties": {
+    "id":3205,
+    "province_id":32,
+    "name":"KABUPATEN GARUT",
+    "alt_name":"KABUPATEN GARUT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.13333,-7.5 ]
+    },
+    "properties": {
+    "id":3206,
+    "province_id":32,
+    "name":"KABUPATEN TASIKMALAYA",
+    "alt_name":"KABUPATEN TASIKMALAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.41667,-7.28333 ]
+    },
+    "properties": {
+    "id":3207,
+    "province_id":32,
+    "name":"KABUPATEN CIAMIS",
+    "alt_name":"KABUPATEN CIAMIS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.55,-7.0 ]
+    },
+    "properties": {
+    "id":3208,
+    "province_id":32,
+    "name":"KABUPATEN KUNINGAN",
+    "alt_name":"KABUPATEN KUNINGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.56667,-6.8 ]
+    },
+    "properties": {
+    "id":3209,
+    "province_id":32,
+    "name":"KABUPATEN CIREBON",
+    "alt_name":"KABUPATEN CIREBON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.28333,-6.81667 ]
+    },
+    "properties": {
+    "id":3210,
+    "province_id":32,
+    "name":"KABUPATEN MAJALENGKA",
+    "alt_name":"KABUPATEN MAJALENGKA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.98333,-6.81667 ]
+    },
+    "properties": {
+    "id":3211,
+    "province_id":32,
+    "name":"KABUPATEN SUMEDANG",
+    "alt_name":"KABUPATEN SUMEDANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.16667,-6.45 ]
+    },
+    "properties": {
+    "id":3212,
+    "province_id":32,
+    "name":"KABUPATEN INDRAMAYU",
+    "alt_name":"KABUPATEN INDRAMAYU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.7025,-6.50833 ]
+    },
+    "properties": {
+    "id":3213,
+    "province_id":32,
+    "name":"KABUPATEN SUBANG",
+    "alt_name":"KABUPATEN SUBANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.45,-6.58333 ]
+    },
+    "properties": {
+    "id":3214,
+    "province_id":32,
+    "name":"KABUPATEN PURWAKARTA",
+    "alt_name":"KABUPATEN PURWAKARTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.41667,-6.26667 ]
+    },
+    "properties": {
+    "id":3215,
+    "province_id":32,
+    "name":"KABUPATEN KARAWANG",
+    "alt_name":"KABUPATEN KARAWANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.10833,-6.24667 ]
+    },
+    "properties": {
+    "id":3216,
+    "province_id":32,
+    "name":"KABUPATEN BEKASI",
+    "alt_name":"KABUPATEN BEKASI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.48333,-6.83333 ]
+    },
+    "properties": {
+    "id":3217,
+    "province_id":32,
+    "name":"KABUPATEN BANDUNG BARAT",
+    "alt_name":"KABUPATEN BANDUNG BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.64037,-7.6673 ]
+    },
+    "properties": {
+    "id":3218,
+    "province_id":32,
+    "name":"KABUPATEN PANGANDARAN",
+    "alt_name":"KABUPATEN PANGANDARAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8,-6.59167 ]
+    },
+    "properties": {
+    "id":3271,
+    "province_id":32,
+    "name":"KOTA BOGOR",
+    "alt_name":"KOTA BOGOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.93333,-6.95 ]
+    },
+    "properties": {
+    "id":3272,
+    "province_id":32,
+    "name":"KOTA SUKABUMI",
+    "alt_name":"KOTA SUKABUMI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.62444,-6.9175 ]
+    },
+    "properties": {
+    "id":3273,
+    "province_id":32,
+    "name":"KOTA BANDUNG",
+    "alt_name":"KOTA BANDUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.55,-6.75 ]
+    },
+    "properties": {
+    "id":3274,
+    "province_id":32,
+    "name":"KOTA CIREBON",
+    "alt_name":"KOTA CIREBON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.98333,-6.28333 ]
+    },
+    "properties": {
+    "id":3275,
+    "province_id":32,
+    "name":"KOTA BEKASI",
+    "alt_name":"KOTA BEKASI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.81667,-6.4 ]
+    },
+    "properties": {
+    "id":3276,
+    "province_id":32,
+    "name":"KOTA DEPOK",
+    "alt_name":"KOTA DEPOK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.55,-6.89167 ]
+    },
+    "properties": {
+    "id":3277,
+    "province_id":32,
+    "name":"KOTA CIMAHI",
+    "alt_name":"KOTA CIMAHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.21667,-7.35 ]
+    },
+    "properties": {
+    "id":3278,
+    "province_id":32,
+    "name":"KOTA TASIKMALAYA",
+    "alt_name":"KOTA TASIKMALAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.53209,-7.36996 ]
+    },
+    "properties": {
+    "id":3279,
+    "province_id":32,
+    "name":"KOTA BANJAR",
+    "alt_name":"KOTA BANJAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.98861,-7.5741700000000005 ]
+    },
+    "properties": {
+    "id":3301,
+    "province_id":33,
+    "name":"KABUPATEN CILACAP",
+    "alt_name":"KABUPATEN CILACAP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.16667,-7.45 ]
+    },
+    "properties": {
+    "id":3302,
+    "province_id":33,
+    "name":"KABUPATEN BANYUMAS",
+    "alt_name":"KABUPATEN BANYUMAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.35028,-7.28417 ]
+    },
+    "properties": {
+    "id":3303,
+    "province_id":33,
+    "name":"KABUPATEN PURBALINGGA",
+    "alt_name":"KABUPATEN PURBALINGGA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.5875,-7.35111 ]
+    },
+    "properties": {
+    "id":3304,
+    "province_id":33,
+    "name":"KABUPATEN BANJARNEGARA",
+    "alt_name":"KABUPATEN BANJARNEGARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.66056,-7.63917 ]
+    },
+    "properties": {
+    "id":3305,
+    "province_id":33,
+    "name":"KABUPATEN KEBUMEN",
+    "alt_name":"KABUPATEN KEBUMEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.96667,-7.7 ]
+    },
+    "properties": {
+    "id":3306,
+    "province_id":33,
+    "name":"KABUPATEN PURWOREJO",
+    "alt_name":"KABUPATEN PURWOREJO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.92667,-7.36139 ]
+    },
+    "properties": {
+    "id":3307,
+    "province_id":33,
+    "name":"KABUPATEN WONOSOBO",
+    "alt_name":"KABUPATEN WONOSOBO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.16194,-7.4275 ]
+    },
+    "properties": {
+    "id":3308,
+    "province_id":33,
+    "name":"KABUPATEN MAGELANG",
+    "alt_name":"KABUPATEN MAGELANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7,-7.5 ]
+    },
+    "properties": {
+    "id":3309,
+    "province_id":33,
+    "name":"KABUPATEN BOYOLALI",
+    "alt_name":"KABUPATEN BOYOLALI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.61667,-7.68333 ]
+    },
+    "properties": {
+    "id":3310,
+    "province_id":33,
+    "name":"KABUPATEN KLATEN",
+    "alt_name":"KABUPATEN KLATEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.83333,-7.68333 ]
+    },
+    "properties": {
+    "id":3311,
+    "province_id":33,
+    "name":"KABUPATEN SUKOHARJO",
+    "alt_name":"KABUPATEN SUKOHARJO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.0,-7.91667 ]
+    },
+    "properties": {
+    "id":3312,
+    "province_id":33,
+    "name":"KABUPATEN WONOGIRI",
+    "alt_name":"KABUPATEN WONOGIRI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.0625,-7.62806 ]
+    },
+    "properties": {
+    "id":3313,
+    "province_id":33,
+    "name":"KABUPATEN KARANGANYAR",
+    "alt_name":"KABUPATEN KARANGANYAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.935,-7.41278 ]
+    },
+    "properties": {
+    "id":3314,
+    "province_id":33,
+    "name":"KABUPATEN SRAGEN",
+    "alt_name":"KABUPATEN SRAGEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.91667,-7.11667 ]
+    },
+    "properties": {
+    "id":3315,
+    "province_id":33,
+    "name":"KABUPATEN GROBOGAN",
+    "alt_name":"KABUPATEN GROBOGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.38333,-7.06667 ]
+    },
+    "properties": {
+    "id":3316,
+    "province_id":33,
+    "name":"KABUPATEN BLORA",
+    "alt_name":"KABUPATEN BLORA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.46667,-6.78333 ]
+    },
+    "properties": {
+    "id":3317,
+    "province_id":33,
+    "name":"KABUPATEN REMBANG",
+    "alt_name":"KABUPATEN REMBANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.1,-6.76667 ]
+    },
+    "properties": {
+    "id":3318,
+    "province_id":33,
+    "name":"KABUPATEN PATI",
+    "alt_name":"KABUPATEN PATI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.86667,-6.8 ]
+    },
+    "properties": {
+    "id":3319,
+    "province_id":33,
+    "name":"KABUPATEN KUDUS",
+    "alt_name":"KABUPATEN KUDUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.76667,-6.58333 ]
+    },
+    "properties": {
+    "id":3320,
+    "province_id":33,
+    "name":"KABUPATEN JEPARA",
+    "alt_name":"KABUPATEN JEPARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.6122,-6.8993 ]
+    },
+    "properties": {
+    "id":3321,
+    "province_id":33,
+    "name":"KABUPATEN DEMAK",
+    "alt_name":"KABUPATEN DEMAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.44139,-7.20667 ]
+    },
+    "properties": {
+    "id":3322,
+    "province_id":33,
+    "name":"KABUPATEN SEMARANG",
+    "alt_name":"KABUPATEN SEMARANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.11667,-7.25 ]
+    },
+    "properties": {
+    "id":3323,
+    "province_id":33,
+    "name":"KABUPATEN TEMANGGUNG",
+    "alt_name":"KABUPATEN TEMANGGUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.1685,-7.0256 ]
+    },
+    "properties": {
+    "id":3324,
+    "province_id":33,
+    "name":"KABUPATEN KENDAL",
+    "alt_name":"KABUPATEN KENDAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.88333,-7.03333 ]
+    },
+    "properties": {
+    "id":3325,
+    "province_id":33,
+    "name":"KABUPATEN BATANG",
+    "alt_name":"KABUPATEN BATANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.624,-7.0319 ]
+    },
+    "properties": {
+    "id":3326,
+    "province_id":33,
+    "name":"KABUPATEN PEKALONGAN",
+    "alt_name":"KABUPATEN PEKALONGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.4,-7.03333 ]
+    },
+    "properties": {
+    "id":3327,
+    "province_id":33,
+    "name":"KABUPATEN PEMALANG",
+    "alt_name":"KABUPATEN PEMALANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.16667,-7.03333 ]
+    },
+    "properties": {
+    "id":3328,
+    "province_id":33,
+    "name":"KABUPATEN TEGAL",
+    "alt_name":"KABUPATEN TEGAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.9,-7.05 ]
+    },
+    "properties": {
+    "id":3329,
+    "province_id":33,
+    "name":"KABUPATEN BREBES",
+    "alt_name":"KABUPATEN BREBES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.225,-7.5 ]
+    },
+    "properties": {
+    "id":3371,
+    "province_id":33,
+    "name":"KOTA MAGELANG",
+    "alt_name":"KOTA MAGELANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.81667,-7.55 ]
+    },
+    "properties": {
+    "id":3372,
+    "province_id":33,
+    "name":"KOTA SURAKARTA",
+    "alt_name":"KOTA SURAKARTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.48333,-7.33278 ]
+    },
+    "properties": {
+    "id":3373,
+    "province_id":33,
+    "name":"KOTA SALATIGA",
+    "alt_name":"KOTA SALATIGA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.38333,-7.03333 ]
+    },
+    "properties": {
+    "id":3374,
+    "province_id":33,
+    "name":"KOTA SEMARANG",
+    "alt_name":"KOTA SEMARANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.68333,-6.9 ]
+    },
+    "properties": {
+    "id":3375,
+    "province_id":33,
+    "name":"KOTA PEKALONGAN",
+    "alt_name":"KOTA PEKALONGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.1129,-6.8686 ]
+    },
+    "properties": {
+    "id":3376,
+    "province_id":33,
+    "name":"KOTA TEGAL",
+    "alt_name":"KOTA TEGAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.02694,-7.645 ]
+    },
+    "properties": {
+    "id":3401,
+    "province_id":34,
+    "name":"KABUPATEN KULON PROGO",
+    "alt_name":"KABUPATEN KULON PROGO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.36667,-7.9 ]
+    },
+    "properties": {
+    "id":3402,
+    "province_id":34,
+    "name":"KABUPATEN BANTUL",
+    "alt_name":"KABUPATEN BANTUL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.61667,-7.9833300000000005 ]
+    },
+    "properties": {
+    "id":3403,
+    "province_id":34,
+    "name":"KABUPATEN GUNUNG KIDUL",
+    "alt_name":"KABUPATEN GUNUNG KIDUL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.32333,-7.68167 ]
+    },
+    "properties": {
+    "id":3404,
+    "province_id":34,
+    "name":"KABUPATEN SLEMAN",
+    "alt_name":"KABUPATEN SLEMAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.375,-7.8 ]
+    },
+    "properties": {
+    "id":3471,
+    "province_id":34,
+    "name":"KOTA YOGYAKARTA",
+    "alt_name":"KOTA YOGYAKARTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.16667,-8.13333 ]
+    },
+    "properties": {
+    "id":3501,
+    "province_id":35,
+    "name":"KABUPATEN PACITAN",
+    "alt_name":"KABUPATEN PACITAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.5,-7.93333 ]
+    },
+    "properties": {
+    "id":3502,
+    "province_id":35,
+    "name":"KABUPATEN PONOROGO",
+    "alt_name":"KABUPATEN PONOROGO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.61667,-8.16667 ]
+    },
+    "properties": {
+    "id":3503,
+    "province_id":35,
+    "name":"KABUPATEN TRENGGALEK",
+    "alt_name":"KABUPATEN TRENGGALEK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.91667,-8.11667 ]
+    },
+    "properties": {
+    "id":3504,
+    "province_id":35,
+    "name":"KABUPATEN TULUNGAGUNG",
+    "alt_name":"KABUPATEN TULUNGAGUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.25,-8.13333 ]
+    },
+    "properties": {
+    "id":3505,
+    "province_id":35,
+    "name":"KABUPATEN BLITAR",
+    "alt_name":"KABUPATEN BLITAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.16667,-7.83333 ]
+    },
+    "properties": {
+    "id":3506,
+    "province_id":35,
+    "name":"KABUPATEN KEDIRI",
+    "alt_name":"KABUPATEN KEDIRI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.66667,-8.16667 ]
+    },
+    "properties": {
+    "id":3507,
+    "province_id":35,
+    "name":"KABUPATEN MALANG",
+    "alt_name":"KABUPATEN MALANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.15,-8.11667 ]
+    },
+    "properties": {
+    "id":3508,
+    "province_id":35,
+    "name":"KABUPATEN LUMAJANG",
+    "alt_name":"KABUPATEN LUMAJANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.65,-8.25 ]
+    },
+    "properties": {
+    "id":3509,
+    "province_id":35,
+    "name":"KABUPATEN JEMBER",
+    "alt_name":"KABUPATEN JEMBER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2,-8.33333 ]
+    },
+    "properties": {
+    "id":3510,
+    "province_id":35,
+    "name":"KABUPATEN BANYUWANGI",
+    "alt_name":"KABUPATEN BANYUWANGI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9834,-7.9404 ]
+    },
+    "properties": {
+    "id":3511,
+    "province_id":35,
+    "name":"KABUPATEN BONDOWOSO",
+    "alt_name":"KABUPATEN BONDOWOSO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.05,-7.71667 ]
+    },
+    "properties": {
+    "id":3512,
+    "province_id":35,
+    "name":"KABUPATEN SITUBONDO",
+    "alt_name":"KABUPATEN SITUBONDO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.31667,-7.86667 ]
+    },
+    "properties": {
+    "id":3513,
+    "province_id":35,
+    "name":"KABUPATEN PROBOLINGGO",
+    "alt_name":"KABUPATEN PROBOLINGGO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.83333,-7.7333300000000005 ]
+    },
+    "properties": {
+    "id":3514,
+    "province_id":35,
+    "name":"KABUPATEN PASURUAN",
+    "alt_name":"KABUPATEN PASURUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.7,-7.45 ]
+    },
+    "properties": {
+    "id":3515,
+    "province_id":35,
+    "name":"KABUPATEN SIDOARJO",
+    "alt_name":"KABUPATEN SIDOARJO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5,-7.55 ]
+    },
+    "properties": {
+    "id":3516,
+    "province_id":35,
+    "name":"KABUPATEN MOJOKERTO",
+    "alt_name":"KABUPATEN MOJOKERTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.25,-7.55 ]
+    },
+    "properties": {
+    "id":3517,
+    "province_id":35,
+    "name":"KABUPATEN JOMBANG",
+    "alt_name":"KABUPATEN JOMBANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.93333,-7.6 ]
+    },
+    "properties": {
+    "id":3518,
+    "province_id":35,
+    "name":"KABUPATEN NGANJUK",
+    "alt_name":"KABUPATEN NGANJUK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.65,-7.61667 ]
+    },
+    "properties": {
+    "id":3519,
+    "province_id":35,
+    "name":"KABUPATEN MADIUN",
+    "alt_name":"KABUPATEN MADIUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.35917,-7.64472 ]
+    },
+    "properties": {
+    "id":3520,
+    "province_id":35,
+    "name":"KABUPATEN MAGETAN",
+    "alt_name":"KABUPATEN MAGETAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.33444,-7.47444 ]
+    },
+    "properties": {
+    "id":3521,
+    "province_id":35,
+    "name":"KABUPATEN NGAWI",
+    "alt_name":"KABUPATEN NGAWI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.8,-7.25 ]
+    },
+    "properties": {
+    "id":3522,
+    "province_id":35,
+    "name":"KABUPATEN BOJONEGORO",
+    "alt_name":"KABUPATEN BOJONEGORO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.9,-6.96667 ]
+    },
+    "properties": {
+    "id":3523,
+    "province_id":35,
+    "name":"KABUPATEN TUBAN",
+    "alt_name":"KABUPATEN TUBAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.31667,-7.13333 ]
+    },
+    "properties": {
+    "id":3524,
+    "province_id":35,
+    "name":"KABUPATEN LAMONGAN",
+    "alt_name":"KABUPATEN LAMONGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.553,-7.1933 ]
+    },
+    "properties": {
+    "id":3525,
+    "province_id":35,
+    "name":"KABUPATEN GRESIK",
+    "alt_name":"KABUPATEN GRESIK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.93333,-7.05 ]
+    },
+    "properties": {
+    "id":3526,
+    "province_id":35,
+    "name":"KABUPATEN BANGKALAN",
+    "alt_name":"KABUPATEN BANGKALAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.25,-7.05 ]
+    },
+    "properties": {
+    "id":3527,
+    "province_id":35,
+    "name":"KABUPATEN SAMPANG",
+    "alt_name":"KABUPATEN SAMPANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.5,-7.06667 ]
+    },
+    "properties": {
+    "id":3528,
+    "province_id":35,
+    "name":"KABUPATEN PAMEKASAN",
+    "alt_name":"KABUPATEN PAMEKASAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.33333,-7.11667 ]
+    },
+    "properties": {
+    "id":3529,
+    "province_id":35,
+    "name":"KABUPATEN SUMENEP",
+    "alt_name":"KABUPATEN SUMENEP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.01667,-7.83333 ]
+    },
+    "properties": {
+    "id":3571,
+    "province_id":35,
+    "name":"KOTA KEDIRI",
+    "alt_name":"KOTA KEDIRI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.16667,-8.1 ]
+    },
+    "properties": {
+    "id":3572,
+    "province_id":35,
+    "name":"KOTA BLITAR",
+    "alt_name":"KOTA BLITAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.63333,-7.975 ]
+    },
+    "properties": {
+    "id":3573,
+    "province_id":35,
+    "name":"KOTA MALANG",
+    "alt_name":"KOTA MALANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.21667,-7.78333 ]
+    },
+    "properties": {
+    "id":3574,
+    "province_id":35,
+    "name":"KOTA PROBOLINGGO",
+    "alt_name":"KOTA PROBOLINGGO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.9,-7.65 ]
+    },
+    "properties": {
+    "id":3575,
+    "province_id":35,
+    "name":"KOTA PASURUAN",
+    "alt_name":"KOTA PASURUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.43333,-7.46667 ]
+    },
+    "properties": {
+    "id":3576,
+    "province_id":35,
+    "name":"KOTA MOJOKERTO",
+    "alt_name":"KOTA MOJOKERTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.53333,-7.63333 ]
+    },
+    "properties": {
+    "id":3577,
+    "province_id":35,
+    "name":"KOTA MADIUN",
+    "alt_name":"KOTA MADIUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.71667,-7.26667 ]
+    },
+    "properties": {
+    "id":3578,
+    "province_id":35,
+    "name":"KOTA SURABAYA",
+    "alt_name":"KOTA SURABAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.53751,-7.83272 ]
+    },
+    "properties": {
+    "id":3579,
+    "province_id":35,
+    "name":"KOTA BATU",
+    "alt_name":"KOTA BATU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.75,-6.63333 ]
+    },
+    "properties": {
+    "id":3601,
+    "province_id":36,
+    "name":"KABUPATEN PANDEGLANG",
+    "alt_name":"KABUPATEN PANDEGLANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.21667,-6.65 ]
+    },
+    "properties": {
+    "id":3602,
+    "province_id":36,
+    "name":"KABUPATEN LEBAK",
+    "alt_name":"KABUPATEN LEBAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.46667,-6.2 ]
+    },
+    "properties": {
+    "id":3603,
+    "province_id":36,
+    "name":"KABUPATEN TANGERANG",
+    "alt_name":"KABUPATEN TANGERANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.0,-6.15 ]
+    },
+    "properties": {
+    "id":3604,
+    "province_id":36,
+    "name":"KABUPATEN SERANG",
+    "alt_name":"KABUPATEN SERANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.62991,-6.17944 ]
+    },
+    "properties": {
+    "id":3671,
+    "province_id":36,
+    "name":"KOTA TANGERANG",
+    "alt_name":"KOTA TANGERANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.01667,-6.01667 ]
+    },
+    "properties": {
+    "id":3672,
+    "province_id":36,
+    "name":"KOTA CILEGON",
+    "alt_name":"KOTA CILEGON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.14999,-6.12563 ]
+    },
+    "properties": {
+    "id":3673,
+    "province_id":36,
+    "name":"KOTA SERANG",
+    "alt_name":"KOTA SERANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.71244,-6.29373 ]
+    },
+    "properties": {
+    "id":3674,
+    "province_id":36,
+    "name":"KOTA TANGERANG SELATAN",
+    "alt_name":"KOTA TANGERANG SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.66667,-8.3 ]
+    },
+    "properties": {
+    "id":5101,
+    "province_id":51,
+    "name":"KABUPATEN JEMBRANA",
+    "alt_name":"KABUPATEN JEMBRANA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.06667,-8.43333 ]
+    },
+    "properties": {
+    "id":5102,
+    "province_id":51,
+    "name":"KABUPATEN TABANAN",
+    "alt_name":"KABUPATEN TABANAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2,-8.51667 ]
+    },
+    "properties": {
+    "id":5103,
+    "province_id":51,
+    "name":"KABUPATEN BADUNG",
+    "alt_name":"KABUPATEN BADUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.28333,-8.46667 ]
+    },
+    "properties": {
+    "id":5104,
+    "province_id":51,
+    "name":"KABUPATEN GIANYAR",
+    "alt_name":"KABUPATEN GIANYAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.4,-8.55 ]
+    },
+    "properties": {
+    "id":5105,
+    "province_id":51,
+    "name":"KABUPATEN KLUNGKUNG",
+    "alt_name":"KABUPATEN KLUNGKUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.35,-8.28333 ]
+    },
+    "properties": {
+    "id":5106,
+    "province_id":51,
+    "name":"KABUPATEN BANGLI",
+    "alt_name":"KABUPATEN BANGLI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.5393,-8.3891 ]
+    },
+    "properties": {
+    "id":5107,
+    "province_id":51,
+    "name":"KABUPATEN KARANG ASEM",
+    "alt_name":"KABUPATEN KARANG ASEM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.96667,-8.25 ]
+    },
+    "properties": {
+    "id":5108,
+    "province_id":51,
+    "name":"KABUPATEN BULELENG",
+    "alt_name":"KABUPATEN BULELENG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.21663,-8.66667 ]
+    },
+    "properties": {
+    "id":5171,
+    "province_id":51,
+    "name":"KOTA DENPASAR",
+    "alt_name":"KOTA DENPASAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.11667,-8.69583 ]
+    },
+    "properties": {
+    "id":5201,
+    "province_id":52,
+    "name":"KABUPATEN LOMBOK BARAT",
+    "alt_name":"KABUPATEN LOMBOK BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3,-8.7 ]
+    },
+    "properties": {
+    "id":5202,
+    "province_id":52,
+    "name":"KABUPATEN LOMBOK TENGAH",
+    "alt_name":"KABUPATEN LOMBOK TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.53333,-8.53333 ]
+    },
+    "properties": {
+    "id":5203,
+    "province_id":52,
+    "name":"KABUPATEN LOMBOK TIMUR",
+    "alt_name":"KABUPATEN LOMBOK TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.3324,-8.7439 ]
+    },
+    "properties": {
+    "id":5204,
+    "province_id":52,
+    "name":"KABUPATEN SUMBAWA",
+    "alt_name":"KABUPATEN SUMBAWA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.4816,-8.5094 ]
+    },
+    "properties": {
+    "id":5205,
+    "province_id":52,
+    "name":"KABUPATEN DOMPU",
+    "alt_name":"KABUPATEN DOMPU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.61667,-8.6 ]
+    },
+    "properties": {
+    "id":5206,
+    "province_id":52,
+    "name":"KABUPATEN BIMA",
+    "alt_name":"KABUPATEN BIMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.92132,-8.75159 ]
+    },
+    "properties": {
+    "id":5207,
+    "province_id":52,
+    "name":"KABUPATEN SUMBAWA BARAT",
+    "alt_name":"KABUPATEN SUMBAWA BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.40152,-8.35214 ]
+    },
+    "properties": {
+    "id":5208,
+    "province_id":52,
+    "name":"KABUPATEN LOMBOK UTARA",
+    "alt_name":"KABUPATEN LOMBOK UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.1167,-8.5833 ]
+    },
+    "properties": {
+    "id":5271,
+    "province_id":52,
+    "name":"KOTA MATARAM",
+    "alt_name":"KOTA MATARAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.75259,-8.46728 ]
+    },
+    "properties": {
+    "id":5272,
+    "province_id":52,
+    "name":"KOTA BIMA",
+    "alt_name":"KOTA BIMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.45,-9.56667 ]
+    },
+    "properties": {
+    "id":5301,
+    "province_id":53,
+    "name":"KABUPATEN SUMBA BARAT",
+    "alt_name":"KABUPATEN SUMBA BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.25,-9.88333 ]
+    },
+    "properties": {
+    "id":5302,
+    "province_id":53,
+    "name":"KABUPATEN SUMBA TIMUR",
+    "alt_name":"KABUPATEN SUMBA TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.83333,-9.91667 ]
+    },
+    "properties": {
+    "id":5303,
+    "province_id":53,
+    "name":"KABUPATEN KUPANG",
+    "alt_name":"KABUPATEN KUPANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.4,-9.83333 ]
+    },
+    "properties": {
+    "id":5304,
+    "province_id":53,
+    "name":"KABUPATEN TIMOR TENGAH SELATAN",
+    "alt_name":"KABUPATEN TIMOR TENGAH SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.51904,-9.33136 ]
+    },
+    "properties": {
+    "id":5305,
+    "province_id":53,
+    "name":"KABUPATEN TIMOR TENGAH UTARA",
+    "alt_name":"KABUPATEN TIMOR TENGAH UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.95066,-9.41258 ]
+    },
+    "properties": {
+    "id":5306,
+    "province_id":53,
+    "name":"KABUPATEN BELU",
+    "alt_name":"KABUPATEN BELU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.56667,-8.3 ]
+    },
+    "properties": {
+    "id":5307,
+    "province_id":53,
+    "name":"KABUPATEN ALOR",
+    "alt_name":"KABUPATEN ALOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.55225,-8.41396 ]
+    },
+    "properties": {
+    "id":5308,
+    "province_id":53,
+    "name":"KABUPATEN LEMBATA",
+    "alt_name":"KABUPATEN LEMBATA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.96817,-8.24224 ]
+    },
+    "properties": {
+    "id":5309,
+    "province_id":53,
+    "name":"KABUPATEN FLORES TIMUR",
+    "alt_name":"KABUPATEN FLORES TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.36667,-8.66667 ]
+    },
+    "properties": {
+    "id":5310,
+    "province_id":53,
+    "name":"KABUPATEN SIKKA",
+    "alt_name":"KABUPATEN SIKKA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.66389,-8.84056 ]
+    },
+    "properties": {
+    "id":5311,
+    "province_id":53,
+    "name":"KABUPATEN ENDE",
+    "alt_name":"KABUPATEN ENDE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0,-8.66667 ]
+    },
+    "properties": {
+    "id":5312,
+    "province_id":53,
+    "name":"KABUPATEN NGADA",
+    "alt_name":"KABUPATEN NGADA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.41667,-8.56667 ]
+    },
+    "properties": {
+    "id":5313,
+    "province_id":53,
+    "name":"KABUPATEN MANGGARAI",
+    "alt_name":"KABUPATEN MANGGARAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.12054,-10.73617 ]
+    },
+    "properties": {
+    "id":5314,
+    "province_id":53,
+    "name":"KABUPATEN ROTE NDAO",
+    "alt_name":"KABUPATEN ROTE NDAO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.88281,-8.64484 ]
+    },
+    "properties": {
+    "id":5315,
+    "province_id":53,
+    "name":"KABUPATEN MANGGARAI BARAT",
+    "alt_name":"KABUPATEN MANGGARAI BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.61914,-9.62941 ]
+    },
+    "properties": {
+    "id":5316,
+    "province_id":53,
+    "name":"KABUPATEN SUMBA TENGAH",
+    "alt_name":"KABUPATEN SUMBA TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.08905,-9.56216 ]
+    },
+    "properties": {
+    "id":5317,
+    "province_id":53,
+    "name":"KABUPATEN SUMBA BARAT DAYA",
+    "alt_name":"KABUPATEN SUMBA BARAT DAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.20963,-8.8721 ]
+    },
+    "properties": {
+    "id":5318,
+    "province_id":53,
+    "name":"KABUPATEN NAGEKEO",
+    "alt_name":"KABUPATEN NAGEKEO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.59761,-8.55533 ]
+    },
+    "properties": {
+    "id":5319,
+    "province_id":53,
+    "name":"KABUPATEN MANGGARAI TIMUR",
+    "alt_name":"KABUPATEN MANGGARAI TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.78894,-10.56286 ]
+    },
+    "properties": {
+    "id":5320,
+    "province_id":53,
+    "name":"KABUPATEN SABU RAIJUA",
+    "alt_name":"KABUPATEN SABU RAIJUA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.89481,-9.5632 ]
+    },
+    "properties": {
+    "id":5321,
+    "province_id":53,
+    "name":"KABUPATEN MALAKA",
+    "alt_name":"KABUPATEN MALAKA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.6,-10.21667 ]
+    },
+    "properties": {
+    "id":5371,
+    "province_id":53,
+    "name":"KOTA KUPANG",
+    "alt_name":"KOTA KUPANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.33333,1.41667 ]
+    },
+    "properties": {
+    "id":6101,
+    "province_id":61,
+    "name":"KABUPATEN SAMBAS",
+    "alt_name":"KABUPATEN SAMBAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.66393,1.06911 ]
+    },
+    "properties": {
+    "id":6102,
+    "province_id":61,
+    "name":"KABUPATEN BENGKAYANG",
+    "alt_name":"KABUPATEN BENGKAYANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.75917,0.42373000000000005 ]
+    },
+    "properties": {
+    "id":6103,
+    "province_id":61,
+    "name":"KABUPATEN LANDAK",
+    "alt_name":"KABUPATEN LANDAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.16667,0.25 ]
+    },
+    "properties": {
+    "id":6104,
+    "province_id":61,
+    "name":"KABUPATEN MEMPAWAH",
+    "alt_name":"KABUPATEN MEMPAWAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.45,0.25472 ]
+    },
+    "properties": {
+    "id":6105,
+    "province_id":61,
+    "name":"KABUPATEN SANGGAU",
+    "alt_name":"KABUPATEN SANGGAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.5,-1.5833300000000001 ]
+    },
+    "properties": {
+    "id":6106,
+    "province_id":61,
+    "name":"KABUPATEN KETAPANG",
+    "alt_name":"KABUPATEN KETAPANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.08333,-0.08333 ]
+    },
+    "properties": {
+    "id":6107,
+    "province_id":61,
+    "name":"KABUPATEN SINTANG",
+    "alt_name":"KABUPATEN SINTANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.76667,0.8166700000000001 ]
+    },
+    "properties": {
+    "id":6108,
+    "province_id":61,
+    "name":"KABUPATEN KAPUAS HULU",
+    "alt_name":"KABUPATEN KAPUAS HULU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.95066,0.034850000000000006 ]
+    },
+    "properties": {
+    "id":6109,
+    "province_id":61,
+    "name":"KABUPATEN SEKADAU",
+    "alt_name":"KABUPATEN SEKADAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.698,-0.33617 ]
+    },
+    "properties": {
+    "id":6110,
+    "province_id":61,
+    "name":"KABUPATEN MELAWI",
+    "alt_name":"KABUPATEN MELAWI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.79781,-1.43711 ]
+    },
+    "properties": {
+    "id":6111,
+    "province_id":61,
+    "name":"KABUPATEN KAYONG UTARA",
+    "alt_name":"KABUPATEN KAYONG UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.33731,0.016370000000000003 ]
+    },
+    "properties": {
+    "id":6112,
+    "province_id":61,
+    "name":"KABUPATEN KUBU RAYA",
+    "alt_name":"KABUPATEN KUBU RAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.36667,-0.08333 ]
+    },
+    "properties": {
+    "id":6171,
+    "province_id":61,
+    "name":"KOTA PONTIANAK",
+    "alt_name":"KOTA PONTIANAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.00103,0.90734 ]
+    },
+    "properties": {
+    "id":6172,
+    "province_id":61,
+    "name":"KOTA SINGKAWANG",
+    "alt_name":"KOTA SINGKAWANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.73333,-2.4 ]
+    },
+    "properties": {
+    "id":6201,
+    "province_id":62,
+    "name":"KABUPATEN KOTAWARINGIN BARAT",
+    "alt_name":"KABUPATEN KOTAWARINGIN BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.75,-2.08333 ]
+    },
+    "properties": {
+    "id":6202,
+    "province_id":62,
+    "name":"KABUPATEN KOTAWARINGIN TIMUR",
+    "alt_name":"KABUPATEN KOTAWARINGIN TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.38333,-2.01667 ]
+    },
+    "properties": {
+    "id":6203,
+    "province_id":62,
+    "name":"KABUPATEN KAPUAS",
+    "alt_name":"KABUPATEN KAPUAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.73333,-1.86667 ]
+    },
+    "properties": {
+    "id":6204,
+    "province_id":62,
+    "name":"KABUPATEN BARITO SELATAN",
+    "alt_name":"KABUPATEN BARITO SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1,-0.98333 ]
+    },
+    "properties": {
+    "id":6205,
+    "province_id":62,
+    "name":"KABUPATEN BARITO UTARA",
+    "alt_name":"KABUPATEN BARITO UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.23681,-2.62675 ]
+    },
+    "properties": {
+    "id":6206,
+    "province_id":62,
+    "name":"KABUPATEN SUKAMARA",
+    "alt_name":"KABUPATEN SUKAMARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.2869,-1.8382800000000001 ]
+    },
+    "properties": {
+    "id":6207,
+    "province_id":62,
+    "name":"KABUPATEN LAMANDAU",
+    "alt_name":"KABUPATEN LAMANDAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.25,-2.33333 ]
+    },
+    "properties": {
+    "id":6208,
+    "province_id":62,
+    "name":"KABUPATEN SERUYAN",
+    "alt_name":"KABUPATEN SERUYAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.4,-2.0666700000000002 ]
+    },
+    "properties": {
+    "id":6209,
+    "province_id":62,
+    "name":"KABUPATEN KATINGAN",
+    "alt_name":"KABUPATEN KATINGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8623,-3.11858 ]
+    },
+    "properties": {
+    "id":6210,
+    "province_id":62,
+    "name":"KABUPATEN PULANG PISAU",
+    "alt_name":"KABUPATEN PULANG PISAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.5,-0.9500000000000001 ]
+    },
+    "properties": {
+    "id":6211,
+    "province_id":62,
+    "name":"KABUPATEN GUNUNG MAS",
+    "alt_name":"KABUPATEN GUNUNG MAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1,-1.9333300000000002 ]
+    },
+    "properties": {
+    "id":6212,
+    "province_id":62,
+    "name":"KABUPATEN BARITO TIMUR",
+    "alt_name":"KABUPATEN BARITO TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.26667,-0.01667 ]
+    },
+    "properties": {
+    "id":6213,
+    "province_id":62,
+    "name":"KABUPATEN MURUNG RAYA",
+    "alt_name":"KABUPATEN MURUNG RAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.73126,-1.76979 ]
+    },
+    "properties": {
+    "id":6271,
+    "province_id":62,
+    "name":"KOTA PALANGKA RAYA",
+    "alt_name":"KOTA PALANGKA RAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.86667,-3.88333 ]
+    },
+    "properties": {
+    "id":6301,
+    "province_id":63,
+    "name":"KABUPATEN TANAH LAUT",
+    "alt_name":"KABUPATEN TANAH LAUT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0,-3.0 ]
+    },
+    "properties": {
+    "id":6302,
+    "province_id":63,
+    "name":"KABUPATEN KOTA BARU",
+    "alt_name":"KABUPATEN KOTA BARU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.08333,-3.3166700000000002 ]
+    },
+    "properties": {
+    "id":6303,
+    "province_id":63,
+    "name":"KABUPATEN BANJAR",
+    "alt_name":"KABUPATEN BANJAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.61667,-3.08333 ]
+    },
+    "properties": {
+    "id":6304,
+    "province_id":63,
+    "name":"KABUPATEN BARITO KUALA",
+    "alt_name":"KABUPATEN BARITO KUALA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.03333,-2.91667 ]
+    },
+    "properties": {
+    "id":6305,
+    "province_id":63,
+    "name":"KABUPATEN TAPIN",
+    "alt_name":"KABUPATEN TAPIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2,-2.75 ]
+    },
+    "properties": {
+    "id":6306,
+    "province_id":63,
+    "name":"KABUPATEN HULU SUNGAI SELATAN",
+    "alt_name":"KABUPATEN HULU SUNGAI SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.41667,-2.61667 ]
+    },
+    "properties": {
+    "id":6307,
+    "province_id":63,
+    "name":"KABUPATEN HULU SUNGAI TENGAH",
+    "alt_name":"KABUPATEN HULU SUNGAI TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.13333,-2.45 ]
+    },
+    "properties": {
+    "id":6308,
+    "province_id":63,
+    "name":"KABUPATEN HULU SUNGAI UTARA",
+    "alt_name":"KABUPATEN HULU SUNGAI UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.5,-1.88333 ]
+    },
+    "properties": {
+    "id":6309,
+    "province_id":63,
+    "name":"KABUPATEN TABALONG",
+    "alt_name":"KABUPATEN TABALONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.70372,-3.45413 ]
+    },
+    "properties": {
+    "id":6310,
+    "province_id":63,
+    "name":"KABUPATEN TANAH BUMBU",
+    "alt_name":"KABUPATEN TANAH BUMBU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.62922,-2.32314 ]
+    },
+    "properties": {
+    "id":6311,
+    "province_id":63,
+    "name":"KABUPATEN BALANGAN",
+    "alt_name":"KABUPATEN BALANGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.59102,-3.32444 ]
+    },
+    "properties": {
+    "id":6371,
+    "province_id":63,
+    "name":"KOTA BANJARMASIN",
+    "alt_name":"KOTA BANJARMASIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.83333,-3.41667 ]
+    },
+    "properties": {
+    "id":6372,
+    "province_id":63,
+    "name":"KOTA BANJAR BARU",
+    "alt_name":"KOTA BANJAR BARU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.23535,-1.43517 ]
+    },
+    "properties": {
+    "id":6401,
+    "province_id":64,
+    "name":"KABUPATEN PASER",
+    "alt_name":"KABUPATEN PASER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.51575,-0.5941700000000001 ]
+    },
+    "properties": {
+    "id":6402,
+    "province_id":64,
+    "name":"KABUPATEN KUTAI BARAT",
+    "alt_name":"KABUPATEN KUTAI BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.98139,-0.44019 ]
+    },
+    "properties": {
+    "id":6403,
+    "province_id":64,
+    "name":"KABUPATEN KUTAI KARTANEGARA",
+    "alt_name":"KABUPATEN KUTAI KARTANEGARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.83112,1.03769 ]
+    },
+    "properties": {
+    "id":6404,
+    "province_id":64,
+    "name":"KABUPATEN KUTAI TIMUR",
+    "alt_name":"KABUPATEN KUTAI TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.3,2.0 ]
+    },
+    "properties": {
+    "id":6405,
+    "province_id":64,
+    "name":"KABUPATEN BERAU",
+    "alt_name":"KABUPATEN BERAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.83333,-1.25 ]
+    },
+    "properties": {
+    "id":6409,
+    "province_id":64,
+    "name":"KABUPATEN PENAJAM PASER UTARA",
+    "alt_name":"KABUPATEN PENAJAM PASER UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.38048,0.37822000000000006 ]
+    },
+    "properties": {
+    "id":6411,
+    "province_id":64,
+    "name":"KABUPATEN MAHAKAM HULU",
+    "alt_name":"KABUPATEN MAHAKAM HULU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.88333,-1.16667 ]
+    },
+    "properties": {
+    "id":6471,
+    "province_id":64,
+    "name":"KOTA BALIKPAPAN",
+    "alt_name":"KOTA BALIKPAPAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.18333,-0.43333000000000005 ]
+    },
+    "properties": {
+    "id":6472,
+    "province_id":64,
+    "name":"KOTA SAMARINDA",
+    "alt_name":"KOTA SAMARINDA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.49603,0.12526 ]
+    },
+    "properties": {
+    "id":6474,
+    "province_id":64,
+    "name":"KOTA BONTANG",
+    "alt_name":"KOTA BONTANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.68333,2.45 ]
+    },
+    "properties": {
+    "id":6501,
+    "province_id":65,
+    "name":"KABUPATEN MALINAU",
+    "alt_name":"KABUPATEN MALINAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.16667,3.0 ]
+    },
+    "properties": {
+    "id":6502,
+    "province_id":65,
+    "name":"KABUPATEN BULUNGAN",
+    "alt_name":"KABUPATEN BULUNGAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.25,3.55 ]
+    },
+    "properties": {
+    "id":6503,
+    "province_id":65,
+    "name":"KABUPATEN TANA TIDUNG",
+    "alt_name":"KABUPATEN TANA TIDUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7,4.13333 ]
+    },
+    "properties": {
+    "id":6504,
+    "province_id":65,
+    "name":"KABUPATEN NUNUKAN",
+    "alt_name":"KABUPATEN NUNUKAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.6,3.36667 ]
+    },
+    "properties": {
+    "id":6571,
+    "province_id":65,
+    "name":"KOTA TARAKAN",
+    "alt_name":"KOTA TARAKAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.08333,0.75 ]
+    },
+    "properties": {
+    "id":7101,
+    "province_id":71,
+    "name":"KABUPATEN BOLAANG MONGONDOW",
+    "alt_name":"KABUPATEN BOLAANG MONGONDOW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.83,1.2537 ]
+    },
+    "properties": {
+    "id":7102,
+    "province_id":71,
+    "name":"KABUPATEN MINAHASA",
+    "alt_name":"KABUPATEN MINAHASA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.55,3.5 ]
+    },
+    "properties": {
+    "id":7103,
+    "province_id":71,
+    "name":"KABUPATEN KEPULAUAN SANGIHE",
+    "alt_name":"KABUPATEN KEPULAUAN SANGIHE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.78085,4.31178 ]
+    },
+    "properties": {
+    "id":7104,
+    "province_id":71,
+    "name":"KABUPATEN KEPULAUAN TALAUD",
+    "alt_name":"KABUPATEN KEPULAUAN TALAUD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.59708,1.21291 ]
+    },
+    "properties": {
+    "id":7105,
+    "province_id":71,
+    "name":"KABUPATEN MINAHASA SELATAN",
+    "alt_name":"KABUPATEN MINAHASA SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.96,1.4025 ]
+    },
+    "properties": {
+    "id":7106,
+    "province_id":71,
+    "name":"KABUPATEN MINAHASA UTARA",
+    "alt_name":"KABUPATEN MINAHASA UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.41766,0.78527 ]
+    },
+    "properties": {
+    "id":7107,
+    "province_id":71,
+    "name":"KABUPATEN BOLAANG MONGONDOW UTARA",
+    "alt_name":"KABUPATEN BOLAANG MONGONDOW UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.37512,2.11728 ]
+    },
+    "properties": {
+    "id":7108,
+    "province_id":71,
+    "name":"KABUPATEN SIAU TAGULANDANG BIARO",
+    "alt_name":"KABUPATEN SIAU TAGULANDANG BIARO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.7925,1.05633 ]
+    },
+    "properties": {
+    "id":7109,
+    "province_id":71,
+    "name":"KABUPATEN MINAHASA TENGGARA",
+    "alt_name":"KABUPATEN MINAHASA TENGGARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.75961,0.40912000000000004 ]
+    },
+    "properties": {
+    "id":7110,
+    "province_id":71,
+    "name":"KABUPATEN BOLAANG MONGONDOW SELATAN",
+    "alt_name":"KABUPATEN BOLAANG MONGONDOW SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.50256,0.7207300000000001 ]
+    },
+    "properties": {
+    "id":7111,
+    "province_id":71,
+    "name":"KABUPATEN BOLAANG MONGONDOW TIMUR",
+    "alt_name":"KABUPATEN BOLAANG MONGONDOW TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.88333,1.51667 ]
+    },
+    "properties": {
+    "id":7171,
+    "province_id":71,
+    "name":"KOTA MANADO",
+    "alt_name":"KOTA MANADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.15,1.48333 ]
+    },
+    "properties": {
+    "id":7172,
+    "province_id":71,
+    "name":"KOTA BITUNG",
+    "alt_name":"KOTA BITUNG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.83404,1.31307 ]
+    },
+    "properties": {
+    "id":7173,
+    "province_id":71,
+    "name":"KOTA TOMOHON",
+    "alt_name":"KOTA TOMOHON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.32678,0.68915 ]
+    },
+    "properties": {
+    "id":7174,
+    "province_id":71,
+    "name":"KOTA KOTAMOBAGU",
+    "alt_name":"KOTA KOTAMOBAGU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.54881,-1.6424 ]
+    },
+    "properties": {
+    "id":7201,
+    "province_id":72,
+    "name":"KABUPATEN BANGGAI KEPULAUAN",
+    "alt_name":"KABUPATEN BANGGAI KEPULAUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.8892,-1.2835 ]
+    },
+    "properties": {
+    "id":7202,
+    "province_id":72,
+    "name":"KABUPATEN BANGGAI",
+    "alt_name":"KABUPATEN BANGGAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.25473,-1.89342 ]
+    },
+    "properties": {
+    "id":7203,
+    "province_id":72,
+    "name":"KABUPATEN MOROWALI",
+    "alt_name":"KABUPATEN MOROWALI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.5,-1.65 ]
+    },
+    "properties": {
+    "id":7204,
+    "province_id":72,
+    "name":"KABUPATEN POSO",
+    "alt_name":"KABUPATEN POSO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.85,-0.58333 ]
+    },
+    "properties": {
+    "id":7205,
+    "province_id":72,
+    "name":"KABUPATEN DONGGALA",
+    "alt_name":"KABUPATEN DONGGALA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.88643,1.30862 ]
+    },
+    "properties": {
+    "id":7206,
+    "province_id":72,
+    "name":"KABUPATEN TOLI-TOLI",
+    "alt_name":"KABUPATEN TOLI-TOLI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.75,0.75 ]
+    },
+    "properties": {
+    "id":7207,
+    "province_id":72,
+    "name":"KABUPATEN BUOL",
+    "alt_name":"KABUPATEN BUOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.17841,0.33680000000000004 ]
+    },
+    "properties": {
+    "id":7208,
+    "province_id":72,
+    "name":"KABUPATEN PARIGI MOUTONG",
+    "alt_name":"KABUPATEN PARIGI MOUTONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.48201,-1.2036 ]
+    },
+    "properties": {
+    "id":7209,
+    "province_id":72,
+    "name":"KABUPATEN TOJO UNA-UNA",
+    "alt_name":"KABUPATEN TOJO UNA-UNA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.96694,-1.385 ]
+    },
+    "properties": {
+    "id":7210,
+    "province_id":72,
+    "name":"KABUPATEN SIGI",
+    "alt_name":"KABUPATEN SIGI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.49388,-1.61841 ]
+    },
+    "properties": {
+    "id":7211,
+    "province_id":72,
+    "name":"KABUPATEN BANGGAI LAUT",
+    "alt_name":"KABUPATEN BANGGAI LAUT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24649,-1.7207 ]
+    },
+    "properties": {
+    "id":7212,
+    "province_id":72,
+    "name":"KABUPATEN MOROWALI UTARA",
+    "alt_name":"KABUPATEN MOROWALI UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.9,-0.86972 ]
+    },
+    "properties": {
+    "id":7271,
+    "province_id":72,
+    "name":"KOTA PALU",
+    "alt_name":"KOTA PALU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.8,-6.81667 ]
+    },
+    "properties": {
+    "id":7301,
+    "province_id":73,
+    "name":"KABUPATEN KEPULAUAN SELAYAR",
+    "alt_name":"KABUPATEN KEPULAUAN SELAYAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.23333,-5.41667 ]
+    },
+    "properties": {
+    "id":7302,
+    "province_id":73,
+    "name":"KABUPATEN BULUKUMBA",
+    "alt_name":"KABUPATEN BULUKUMBA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.98333,-5.4833300000000005 ]
+    },
+    "properties": {
+    "id":7303,
+    "province_id":73,
+    "name":"KABUPATEN BANTAENG",
+    "alt_name":"KABUPATEN BANTAENG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.73333,-5.63333 ]
+    },
+    "properties": {
+    "id":7304,
+    "province_id":73,
+    "name":"KABUPATEN JENEPONTO",
+    "alt_name":"KABUPATEN JENEPONTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.51667,-5.41667 ]
+    },
+    "properties": {
+    "id":7305,
+    "province_id":73,
+    "name":"KABUPATEN TAKALAR",
+    "alt_name":"KABUPATEN TAKALAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.75,-5.31667 ]
+    },
+    "properties": {
+    "id":7306,
+    "province_id":73,
+    "name":"KABUPATEN GOWA",
+    "alt_name":"KABUPATEN GOWA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.15,-5.21667 ]
+    },
+    "properties": {
+    "id":7307,
+    "province_id":73,
+    "name":"KABUPATEN SINJAI",
+    "alt_name":"KABUPATEN SINJAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.71667,-5.05 ]
+    },
+    "properties": {
+    "id":7308,
+    "province_id":73,
+    "name":"KABUPATEN MAROS",
+    "alt_name":"KABUPATEN MAROS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.5506,-4.7827 ]
+    },
+    "properties": {
+    "id":7309,
+    "province_id":73,
+    "name":"KABUPATEN PANGKAJENE DAN KEPULAUAN",
+    "alt_name":"KABUPATEN PANGKAJENE DAN KEPULAUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.68333,-4.43333 ]
+    },
+    "properties": {
+    "id":7310,
+    "province_id":73,
+    "name":"KABUPATEN BARRU",
+    "alt_name":"KABUPATEN BARRU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.13333,-4.7 ]
+    },
+    "properties": {
+    "id":7311,
+    "province_id":73,
+    "name":"KABUPATEN BONE",
+    "alt_name":"KABUPATEN BONE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.89,-4.3842 ]
+    },
+    "properties": {
+    "id":7312,
+    "province_id":73,
+    "name":"KABUPATEN SOPPENG",
+    "alt_name":"KABUPATEN SOPPENG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.16667,-4.0 ]
+    },
+    "properties": {
+    "id":7313,
+    "province_id":73,
+    "name":"KABUPATEN WAJO",
+    "alt_name":"KABUPATEN WAJO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.96667,-3.85 ]
+    },
+    "properties": {
+    "id":7314,
+    "province_id":73,
+    "name":"KABUPATEN SIDENRENG RAPPANG",
+    "alt_name":"KABUPATEN SIDENRENG RAPPANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.6,-3.61667 ]
+    },
+    "properties": {
+    "id":7315,
+    "province_id":73,
+    "name":"KABUPATEN PINRANG",
+    "alt_name":"KABUPATEN PINRANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.86667,-3.5 ]
+    },
+    "properties": {
+    "id":7316,
+    "province_id":73,
+    "name":"KABUPATEN ENREKANG",
+    "alt_name":"KABUPATEN ENREKANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3242,-2.5577 ]
+    },
+    "properties": {
+    "id":7317,
+    "province_id":73,
+    "name":"KABUPATEN LUWU",
+    "alt_name":"KABUPATEN LUWU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.79655,-3.0024 ]
+    },
+    "properties": {
+    "id":7318,
+    "province_id":73,
+    "name":"KABUPATEN TANA TORAJA",
+    "alt_name":"KABUPATEN TANA TORAJA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.25,-2.6 ]
+    },
+    "properties": {
+    "id":7322,
+    "province_id":73,
+    "name":"KABUPATEN LUWU UTARA",
+    "alt_name":"KABUPATEN LUWU UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3978,-2.50957 ]
+    },
+    "properties": {
+    "id":7325,
+    "province_id":73,
+    "name":"KABUPATEN LUWU TIMUR",
+    "alt_name":"KABUPATEN LUWU TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.79218,-2.9273800000000003 ]
+    },
+    "properties": {
+    "id":7326,
+    "province_id":73,
+    "name":"KABUPATEN TORAJA UTARA",
+    "alt_name":"KABUPATEN TORAJA UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.45,-5.15 ]
+    },
+    "properties": {
+    "id":7371,
+    "province_id":73,
+    "name":"KOTA MAKASSAR",
+    "alt_name":"KOTA MAKASSAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.65,-4.03333 ]
+    },
+    "properties": {
+    "id":7372,
+    "province_id":73,
+    "name":"KOTA PARE-PARE",
+    "alt_name":"KOTA PARE-PARE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.11078,-2.9784100000000002 ]
+    },
+    "properties": {
+    "id":7373,
+    "province_id":73,
+    "name":"KOTA PALOPO",
+    "alt_name":"KOTA PALOPO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.58333,-5.31667 ]
+    },
+    "properties": {
+    "id":7401,
+    "province_id":74,
+    "name":"KABUPATEN BUTON",
+    "alt_name":"KABUPATEN BUTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.66667,-4.96667 ]
+    },
+    "properties": {
+    "id":7402,
+    "province_id":74,
+    "name":"KABUPATEN MUNA",
+    "alt_name":"KABUPATEN MUNA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.08823,-3.91717 ]
+    },
+    "properties": {
+    "id":7403,
+    "province_id":74,
+    "name":"KABUPATEN KONAWE",
+    "alt_name":"KABUPATEN KONAWE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.66667,-4.08333 ]
+    },
+    "properties": {
+    "id":7404,
+    "province_id":74,
+    "name":"KABUPATEN KOLAKA",
+    "alt_name":"KABUPATEN KOLAKA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.44854,-4.19191 ]
+    },
+    "properties": {
+    "id":7405,
+    "province_id":74,
+    "name":"KABUPATEN KONAWE SELATAN",
+    "alt_name":"KABUPATEN KONAWE SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.81641,-4.6257 ]
+    },
+    "properties": {
+    "id":7406,
+    "province_id":74,
+    "name":"KABUPATEN BOMBANA",
+    "alt_name":"KABUPATEN BOMBANA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.5948,-5.31934 ]
+    },
+    "properties": {
+    "id":7407,
+    "province_id":74,
+    "name":"KABUPATEN WAKATOBI",
+    "alt_name":"KABUPATEN WAKATOBI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.12427,-3.10452 ]
+    },
+    "properties": {
+    "id":7408,
+    "province_id":74,
+    "name":"KABUPATEN KOLAKA UTARA",
+    "alt_name":"KABUPATEN KOLAKA UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.93015,-5.01457 ]
+    },
+    "properties": {
+    "id":7409,
+    "province_id":74,
+    "name":"KABUPATEN BUTON UTARA",
+    "alt_name":"KABUPATEN BUTON UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.99081,-3.41552 ]
+    },
+    "properties": {
+    "id":7410,
+    "province_id":74,
+    "name":"KABUPATEN KONAWE UTARA",
+    "alt_name":"KABUPATEN KONAWE UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.86172,-4.01807 ]
+    },
+    "properties": {
+    "id":7411,
+    "province_id":74,
+    "name":"KABUPATEN KOLAKA TIMUR",
+    "alt_name":"KABUPATEN KOLAKA TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.10181,-4.11656 ]
+    },
+    "properties": {
+    "id":7412,
+    "province_id":74,
+    "name":"KABUPATEN KONAWE KEPULAUAN",
+    "alt_name":"KABUPATEN KONAWE KEPULAUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.48333,-4.83333 ]
+    },
+    "properties": {
+    "id":7413,
+    "province_id":74,
+    "name":"KABUPATEN MUNA BARAT",
+    "alt_name":"KABUPATEN MUNA BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.33333,-5.31667 ]
+    },
+    "properties": {
+    "id":7414,
+    "province_id":74,
+    "name":"KABUPATEN BUTON TENGAH",
+    "alt_name":"KABUPATEN BUTON TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.7,-5.56667 ]
+    },
+    "properties": {
+    "id":7415,
+    "province_id":74,
+    "name":"KABUPATEN BUTON SELATAN",
+    "alt_name":"KABUPATEN BUTON SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.5,-3.98333 ]
+    },
+    "properties": {
+    "id":7471,
+    "province_id":74,
+    "name":"KOTA KENDARI",
+    "alt_name":"KOTA KENDARI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.6166,-5.477 ]
+    },
+    "properties": {
+    "id":7472,
+    "province_id":74,
+    "name":"KOTA BAUBAU",
+    "alt_name":"KOTA BAUBAU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.3568,0.6268900000000001 ]
+    },
+    "properties": {
+    "id":7501,
+    "province_id":75,
+    "name":"KABUPATEN BOALEMO",
+    "alt_name":"KABUPATEN BOALEMO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.2337,0.5728 ]
+    },
+    "properties": {
+    "id":7502,
+    "province_id":75,
+    "name":"KABUPATEN GORONTALO",
+    "alt_name":"KABUPATEN GORONTALO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.59582,0.7098 ]
+    },
+    "properties": {
+    "id":7503,
+    "province_id":75,
+    "name":"KABUPATEN POHUWATO",
+    "alt_name":"KABUPATEN POHUWATO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.27501,0.5029600000000001 ]
+    },
+    "properties": {
+    "id":7504,
+    "province_id":75,
+    "name":"KABUPATEN BONE BOLANGO",
+    "alt_name":"KABUPATEN BONE BOLANGO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.31667,0.77 ]
+    },
+    "properties": {
+    "id":7505,
+    "province_id":75,
+    "name":"KABUPATEN GORONTALO UTARA",
+    "alt_name":"KABUPATEN GORONTALO UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.1,0.5333300000000001 ]
+    },
+    "properties": {
+    "id":7571,
+    "province_id":75,
+    "name":"KOTA GORONTALO",
+    "alt_name":"KOTA GORONTALO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.86667,-3.15 ]
+    },
+    "properties": {
+    "id":7601,
+    "province_id":76,
+    "name":"KABUPATEN MAJENE",
+    "alt_name":"KABUPATEN MAJENE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.16667,-3.3 ]
+    },
+    "properties": {
+    "id":7602,
+    "province_id":76,
+    "name":"KABUPATEN POLEWALI MANDAR",
+    "alt_name":"KABUPATEN POLEWALI MANDAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.30631,-2.96492 ]
+    },
+    "properties": {
+    "id":7603,
+    "province_id":76,
+    "name":"KABUPATEN MAMASA",
+    "alt_name":"KABUPATEN MAMASA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.41667,-2.5 ]
+    },
+    "properties": {
+    "id":7604,
+    "province_id":76,
+    "name":"KABUPATEN MAMUJU",
+    "alt_name":"KABUPATEN MAMUJU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.42139,-1.51639 ]
+    },
+    "properties": {
+    "id":7605,
+    "province_id":76,
+    "name":"KABUPATEN MAMUJU UTARA",
+    "alt_name":"KABUPATEN MAMUJU UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.2662,-2.8212 ]
+    },
+    "properties": {
+    "id":7606,
+    "province_id":76,
+    "name":"KABUPATEN MAMUJU TENGAH",
+    "alt_name":"KABUPATEN MAMUJU TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.38,-7.61186 ]
+    },
+    "properties": {
+    "id":8101,
+    "province_id":81,
+    "name":"KABUPATEN MALUKU TENGGARA BARAT",
+    "alt_name":"KABUPATEN MALUKU TENGGARA BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.73334,-5.75 ]
+    },
+    "properties": {
+    "id":8102,
+    "province_id":81,
+    "name":"KABUPATEN MALUKU TENGGARA",
+    "alt_name":"KABUPATEN MALUKU TENGGARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.9675,-3.29167 ]
+    },
+    "properties": {
+    "id":8103,
+    "province_id":81,
+    "name":"KABUPATEN MALUKU TENGAH",
+    "alt_name":"KABUPATEN MALUKU TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.68413,-3.32767 ]
+    },
+    "properties": {
+    "id":8104,
+    "province_id":81,
+    "name":"KABUPATEN BURU",
+    "alt_name":"KABUPATEN BURU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.46991,-6.17059 ]
+    },
+    "properties": {
+    "id":8105,
+    "province_id":81,
+    "name":"KABUPATEN KEPULAUAN ARU",
+    "alt_name":"KABUPATEN KEPULAUAN ARU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.42996,-3.1027 ]
+    },
+    "properties": {
+    "id":8106,
+    "province_id":81,
+    "name":"KABUPATEN SERAM BAGIAN BARAT",
+    "alt_name":"KABUPATEN SERAM BAGIAN BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.39166,-3.39851 ]
+    },
+    "properties": {
+    "id":8107,
+    "province_id":81,
+    "name":"KABUPATEN SERAM BAGIAN TIMUR",
+    "alt_name":"KABUPATEN SERAM BAGIAN TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.17386,-7.8296 ]
+    },
+    "properties": {
+    "id":8108,
+    "province_id":81,
+    "name":"KABUPATEN MALUKU BARAT DAYA",
+    "alt_name":"KABUPATEN MALUKU BARAT DAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.59271,-3.52187 ]
+    },
+    "properties": {
+    "id":8109,
+    "province_id":81,
+    "name":"KABUPATEN BURU SELATAN",
+    "alt_name":"KABUPATEN BURU SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.18333,-3.7 ]
+    },
+    "properties": {
+    "id":8171,
+    "province_id":81,
+    "name":"KOTA AMBON",
+    "alt_name":"KOTA AMBON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.74934,-5.64301 ]
+    },
+    "properties": {
+    "id":8172,
+    "province_id":81,
+    "name":"KOTA TUAL",
+    "alt_name":"KOTA TUAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.55264,1.41709 ]
+    },
+    "properties": {
+    "id":8201,
+    "province_id":82,
+    "name":"KABUPATEN HALMAHERA BARAT",
+    "alt_name":"KABUPATEN HALMAHERA BARAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.25,0.48056000000000004 ]
+    },
+    "properties": {
+    "id":8202,
+    "province_id":82,
+    "name":"KABUPATEN HALMAHERA TENGAH",
+    "alt_name":"KABUPATEN HALMAHERA TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.69046,-1.8646 ]
+    },
+    "properties": {
+    "id":8203,
+    "province_id":82,
+    "name":"KABUPATEN KEPULAUAN SULA",
+    "alt_name":"KABUPATEN KEPULAUAN SULA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.90833,-0.3955 ]
+    },
+    "properties": {
+    "id":8204,
+    "province_id":82,
+    "name":"KABUPATEN HALMAHERA SELATAN",
+    "alt_name":"KABUPATEN HALMAHERA SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.00778,1.73194 ]
+    },
+    "properties": {
+    "id":8205,
+    "province_id":82,
+    "name":"KABUPATEN HALMAHERA UTARA",
+    "alt_name":"KABUPATEN HALMAHERA UTARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.48627,1.33517 ]
+    },
+    "properties": {
+    "id":8206,
+    "province_id":82,
+    "name":"KABUPATEN HALMAHERA TIMUR",
+    "alt_name":"KABUPATEN HALMAHERA TIMUR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.40546,2.19924 ]
+    },
+    "properties": {
+    "id":8207,
+    "province_id":82,
+    "name":"KABUPATEN PULAU MOROTAI",
+    "alt_name":"KABUPATEN PULAU MOROTAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.78992,-1.84578 ]
+    },
+    "properties": {
+    "id":8208,
+    "province_id":82,
+    "name":"KABUPATEN PULAU TALIABU",
+    "alt_name":"KABUPATEN PULAU TALIABU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.31016,0.8961800000000001 ]
+    },
+    "properties": {
+    "id":8271,
+    "province_id":82,
+    "name":"KOTA TERNATE",
+    "alt_name":"KOTA TERNATE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.56981,0.60962 ]
+    },
+    "properties": {
+    "id":8272,
+    "province_id":82,
+    "name":"KOTA TIDORE KEPULAUAN",
+    "alt_name":"KOTA TIDORE KEPULAUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.29608,-2.92641 ]
+    },
+    "properties": {
+    "id":9101,
+    "province_id":91,
+    "name":"KABUPATEN FAK-FAK",
+    "alt_name":"KABUPATEN FAK-FAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.77451,-3.66093 ]
+    },
+    "properties": {
+    "id":9102,
+    "province_id":91,
+    "name":"KABUPATEN KAIMANA",
+    "alt_name":"KABUPATEN KAIMANA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.5,-2.7 ]
+    },
+    "properties": {
+    "id":9103,
+    "province_id":91,
+    "name":"KABUPATEN TELUK WONDAMA",
+    "alt_name":"KABUPATEN TELUK WONDAMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.33105,-1.88037 ]
+    },
+    "properties": {
+    "id":9104,
+    "province_id":91,
+    "name":"KABUPATEN TELUK BINTUNI",
+    "alt_name":"KABUPATEN TELUK BINTUNI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.75,-0.9 ]
+    },
+    "properties": {
+    "id":9105,
+    "province_id":91,
+    "name":"KABUPATEN MANOKWARI",
+    "alt_name":"KABUPATEN MANOKWARI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.28638,-1.50495 ]
+    },
+    "properties": {
+    "id":9106,
+    "province_id":91,
+    "name":"KABUPATEN SORONG SELATAN",
+    "alt_name":"KABUPATEN SORONG SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.5,-1.16667 ]
+    },
+    "properties": {
+    "id":9107,
+    "province_id":91,
+    "name":"KABUPATEN SORONG",
+    "alt_name":"KABUPATEN SORONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.0,-0.5 ]
+    },
+    "properties": {
+    "id":9108,
+    "province_id":91,
+    "name":"KABUPATEN RAJA AMPAT",
+    "alt_name":"KABUPATEN RAJA AMPAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.48962,-0.6051500000000001 ]
+    },
+    "properties": {
+    "id":9109,
+    "province_id":91,
+    "name":"KABUPATEN TAMBRAUW",
+    "alt_name":"KABUPATEN TAMBRAUW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.35092,-1.2155 ]
+    },
+    "properties": {
+    "id":9110,
+    "province_id":91,
+    "name":"KABUPATEN MAYBRAT",
+    "alt_name":"KABUPATEN MAYBRAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.96729,-1.0798 ]
+    },
+    "properties": {
+    "id":9111,
+    "province_id":91,
+    "name":"KABUPATEN MANOKWARI SELATAN",
+    "alt_name":"KABUPATEN MANOKWARI SELATAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.89587,-0.9352300000000001 ]
+    },
+    "properties": {
+    "id":9112,
+    "province_id":91,
+    "name":"KABUPATEN PEGUNUNGAN ARFAK",
+    "alt_name":"KABUPATEN PEGUNUNGAN ARFAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.25153,-0.8650700000000001 ]
+    },
+    "properties": {
+    "id":9171,
+    "province_id":91,
+    "name":"KOTA SORONG",
+    "alt_name":"KOTA SORONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.66667,-7.66667 ]
+    },
+    "properties": {
+    "id":9401,
+    "province_id":94,
+    "name":"KABUPATEN MERAUKE",
+    "alt_name":"KABUPATEN MERAUKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.08333,-4.08333 ]
+    },
+    "properties": {
+    "id":9402,
+    "province_id":94,
+    "name":"KABUPATEN JAYAWIJAYA",
+    "alt_name":"KABUPATEN JAYAWIJAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.95,-3.0 ]
+    },
+    "properties": {
+    "id":9403,
+    "province_id":94,
+    "name":"KABUPATEN JAYAPURA",
+    "alt_name":"KABUPATEN JAYAPURA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.55511,-3.54016 ]
+    },
+    "properties": {
+    "id":9404,
+    "province_id":94,
+    "name":"KABUPATEN NABIRE",
+    "alt_name":"KABUPATEN NABIRE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.27716,-1.78773 ]
+    },
+    "properties": {
+    "id":9408,
+    "province_id":94,
+    "name":"KABUPATEN KEPULAUAN YAPEN",
+    "alt_name":"KABUPATEN KEPULAUAN YAPEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.0,-1.03333 ]
+    },
+    "properties": {
+    "id":9409,
+    "province_id":94,
+    "name":"KABUPATEN BIAK NUMFOR",
+    "alt_name":"KABUPATEN BIAK NUMFOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.60001,-3.9 ]
+    },
+    "properties": {
+    "id":9410,
+    "province_id":94,
+    "name":"KABUPATEN PANIAI",
+    "alt_name":"KABUPATEN PANIAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.43896,-3.67241 ]
+    },
+    "properties": {
+    "id":9411,
+    "province_id":94,
+    "name":"KABUPATEN PUNCAK JAYA",
+    "alt_name":"KABUPATEN PUNCAK JAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.56555,-4.54357 ]
+    },
+    "properties": {
+    "id":9412,
+    "province_id":94,
+    "name":"KABUPATEN MIMIKA",
+    "alt_name":"KABUPATEN MIMIKA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.36349,-5.70519 ]
+    },
+    "properties": {
+    "id":9413,
+    "province_id":94,
+    "name":"KABUPATEN BOVEN DIGOEL",
+    "alt_name":"KABUPATEN BOVEN DIGOEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.34441,-6.49971 ]
+    },
+    "properties": {
+    "id":9414,
+    "province_id":94,
+    "name":"KABUPATEN MAPPI",
+    "alt_name":"KABUPATEN MAPPI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.46344,-5.3795 ]
+    },
+    "properties": {
+    "id":9415,
+    "province_id":94,
+    "name":"KABUPATEN ASMAT",
+    "alt_name":"KABUPATEN ASMAT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.58405,-4.60403 ]
+    },
+    "properties": {
+    "id":9416,
+    "province_id":94,
+    "name":"KABUPATEN YAHUKIMO",
+    "alt_name":"KABUPATEN YAHUKIMO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.29541,-4.52167 ]
+    },
+    "properties": {
+    "id":9417,
+    "province_id":94,
+    "name":"KABUPATEN PEGUNUNGAN BINTANG",
+    "alt_name":"KABUPATEN PEGUNUNGAN BINTANG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.41699,-3.42661 ]
+    },
+    "properties": {
+    "id":9418,
+    "province_id":94,
+    "name":"KABUPATEN TOLIKARA",
+    "alt_name":"KABUPATEN TOLIKARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.08333,-2.41667 ]
+    },
+    "properties": {
+    "id":9419,
+    "province_id":94,
+    "name":"KABUPATEN SARMI",
+    "alt_name":"KABUPATEN SARMI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.61667,-3.3 ]
+    },
+    "properties": {
+    "id":9420,
+    "province_id":94,
+    "name":"KABUPATEN KEEROM",
+    "alt_name":"KABUPATEN KEEROM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.01837,-2.286 ]
+    },
+    "properties": {
+    "id":9426,
+    "province_id":94,
+    "name":"KABUPATEN WAROPEN",
+    "alt_name":"KABUPATEN WAROPEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.61111,-0.7388100000000001 ]
+    },
+    "properties": {
+    "id":9427,
+    "province_id":94,
+    "name":"KABUPATEN SUPIORI",
+    "alt_name":"KABUPATEN SUPIORI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.78229,-2.23561 ]
+    },
+    "properties": {
+    "id":9428,
+    "province_id":94,
+    "name":"KABUPATEN MAMBERAMO RAYA",
+    "alt_name":"KABUPATEN MAMBERAMO RAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.10089,-4.45093 ]
+    },
+    "properties": {
+    "id":9429,
+    "province_id":94,
+    "name":"KABUPATEN NDUGA",
+    "alt_name":"KABUPATEN NDUGA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.28766,-3.91244 ]
+    },
+    "properties": {
+    "id":9430,
+    "province_id":94,
+    "name":"KABUPATEN LANNY JAYA",
+    "alt_name":"KABUPATEN LANNY JAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.45245,-2.46064 ]
+    },
+    "properties": {
+    "id":9431,
+    "province_id":94,
+    "name":"KABUPATEN MAMBERAMO TENGAH",
+    "alt_name":"KABUPATEN MAMBERAMO TENGAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.47305,-3.86037 ]
+    },
+    "properties": {
+    "id":9432,
+    "province_id":94,
+    "name":"KABUPATEN YALIMO",
+    "alt_name":"KABUPATEN YALIMO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.09702,-4.14204 ]
+    },
+    "properties": {
+    "id":9433,
+    "province_id":94,
+    "name":"KABUPATEN PUNCAK",
+    "alt_name":"KABUPATEN PUNCAK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.43945,-4.03186 ]
+    },
+    "properties": {
+    "id":9434,
+    "province_id":94,
+    "name":"KABUPATEN DOGIYAI",
+    "alt_name":"KABUPATEN DOGIYAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.70837,-3.41016 ]
+    },
+    "properties": {
+    "id":9435,
+    "province_id":94,
+    "name":"KABUPATEN INTAN JAYA",
+    "alt_name":"KABUPATEN INTAN JAYA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.95032,-3.9473700000000003 ]
+    },
+    "properties": {
+    "id":9436,
+    "province_id":94,
+    "name":"KABUPATEN DEIYAI",
+    "alt_name":"KABUPATEN DEIYAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.77779,-2.64647 ]
+    },
+    "properties": {
+    "id":9471,
+    "province_id":94,
+    "name":"KOTA JAYAPURA",
+    "alt_name":"KOTA JAYAPURA"
+    }
+  }
+]
+}
